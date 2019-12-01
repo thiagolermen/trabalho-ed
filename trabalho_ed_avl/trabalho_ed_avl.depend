@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1574629684 source:c:\users\user\desktop\trabalho_ed_avl\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1574629969 c:\users\user\desktop\trabalho_ed_avl\avl.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+
+1574446379 source:c:\users\user\desktop\trabalho_ed_avl\lse.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	"lse.h"
+
+1574446358 c:\users\user\desktop\trabalho_ed_avl\lse.h
+
+1574900070 source:c:\users\user\desktop\trabalho_ed_avl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+	<time.h>
+	"avl.h"
+

@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1574905665 source:c:\users\user\desktop\trabalho_ed_abp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+	<time.h>
+	"abp.h"
+
+1574628480 c:\users\user\desktop\trabalho_ed_abp\avl.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+
+1574628480 source:c:\users\user\desktop\trabalho_ed_abp\avl.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"avl.h"
+
+1574628480 c:\users\user\desktop\trabalho_ed_abp\abp.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+
+1574629278 source:c:\users\user\desktop\trabalho_ed_abp\abp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abp.h"
+

@@ -1,0 +1,4714 @@
+********   ESTATISTICAS DA GERACAO DA ARVORE AVL   ***********
+Numero de nodos: 4725
+Altura: 15
+Fator de balanceamento: -1
+Tempo: 18,000000 ms
+Rotacoes: 3361
+Comparacoes: 186647
+**********************************************************************
+F que
+0 ocorrencias
+******************************
+F para
+0 ocorrencias
+******************************
+F coração
+0 ocorrencias
+******************************
+F lasdlkj
+0 ocorrencias
+******************************
+C 2 10
+
+cinema 10
+
+down 10
+
+filmmaking 10
+
+gets 10
+
+great 10
+
+half 10
+
+hard 10
+
+here 10
+
+high 10
+
+moments 10
+
+narrative 10
+
+original 10
+
+performances 10
+
+quite 10
+
+really 10
+
+seems 10
+
+seen 10
+
+show 10
+
+such 10
+
+thriller 10
+
+were 10
+
+again 9
+
+american 9
+
+another 9
+
+being 9
+
+between 9
+
+compelling 9
+
+dialogue 9
+
+else 9
+
+emotional 9
+
+far 9
+
+goes 9
+
+going 9
+
+humor 9
+
+light 9
+
+making 9
+
+middle 9
+
+mostly 9
+
+music 9
+
+recent 9
+
+same 9
+
+screenplay 9
+
+sex 9
+
+simply 9
+
+strong 9
+
+summer 9
+
+sweet 9
+
+take 9
+
+then 9
+
+thing 9
+
+trying 9
+
+visual 9
+
+year 9
+
+young 9
+
+acting 8
+
+before 8
+
+clever 8
+
+d 8
+
+delivers 8
+
+did 8
+
+documentary 8
+
+earnest 8
+
+experience 8
+
+feature 8
+
+finally 8
+
+find 8
+
+flick 8
+
+full 8
+
+itself 8
+
+keep 8
+
+moving 8
+
+offers 8
+
+picture 8
+
+piece 8
+
+pieces 8
+
+plot 8
+
+probably 8
+
+special 8
+
+takes 8
+
+why 8
+
+worth 8
+
+actor 7
+
+almost 7
+
+around 7
+
+art 7
+
+beautiful 7
+
+becomes 7
+
+dark 7
+
+done 7
+
+dramatic 7
+
+engaging 7
+
+everyone 7
+
+face 7
+
+feeling 7
+
+filmmaker 7
+
+filmmakers 7
+
+hour 7
+
+hours 7
+
+human 7
+
+interesting 7
+
+lot 7
+
+me 7
+
+minute 7
+
+need 7
+
+once 7
+
+point 7
+
+political 7
+
+reason 7
+
+scenes 7
+
+seem 7
+
+silly 7
+
+small 7
+
+sometimes 7
+
+star 7
+
+storytelling 7
+
+style 7
+
+these 7
+
+three 7
+
+title 7
+
+together 7
+
+want 7
+
+white 7
+
+whole 7
+
+woman 7
+
+years 7
+
+yet 7
+
+above 6
+
+already 6
+
+anyone 6
+
+audiences 6
+
+beautifully 6
+
+beyond 6
+
+boy 6
+
+charming 6
+
+coming 6
+
+easy 6
+
+effects 6
+
+emotions 6
+
+enjoyable 6
+
+entertaining 6
+
+epic 6
+
+examination 6
+
+family 6
+
+girl 6
+
+give 6
+
+guys 6
+
+him 6
+
+horror 6
+
+involved 6
+
+laugh 6
+
+laughs 6
+
+least 6
+
+manages 6
+
+matter 6
+
+meditation 6
+
+modern 6
+
+mr 6
+
+my 6
+
+nearly 6
+
+neither 6
+
+obvious 6
+
+pleasure 6
+
+powerful 6
+
+put 6
+
+rock 6
+
+say 6
+
+short 6
+
+solid 6
+
+start 6
+
+theater 6
+
+turn 6
+
+tv 6
+
+upon 6
+
+watching 6
+
+whose 6
+
+wit 6
+
+writer 6
+
+across 5
+
+against 5
+
+age 5
+
+amusing 5
+
+apart 5
+
+attempt 5
+
+away 5
+
+barely 5
+
+behind 5
+
+bit 5
+
+black 5
+
+ca 5
+
+call 5
+
+camera 5
+
+career 5
+
+cartoon 5
+
+case 5
+
+children 5
+
+cinematic 5
+
+cliches 5
+
+concept 5
+
+contrived 5
+
+culture 5
+
+date 5
+
+david 5
+
+day 5
+
+dead 5
+
+debut 5
+
+difficult 5
+
+directed 5
+
+dull 5
+
+enjoy 5
+
+era 5
+
+especially 5
+
+evokes 5
+
+fairly 5
+
+fans 5
+
+frame 5
+
+given 5
+
+go 5
+
+gone 5
+
+goofy 5
+
+heavy 5
+
+hope 5
+
+idea 5
+
+images 5
+
+indie 5
+
+intrigue 5
+
+john 5
+
+jokes 5
+
+kids 5
+
+know 5
+
+latest 5
+
+leaves 5
+
+lives 5
+
+ll 5
+
+low 5
+
+material 5
+
+mess 5
+
+message 5
+
+nice 5
+
+now 5
+
+ones 5
+
+perhaps 5
+
+place 5
+
+playing 5
+
+poetry 5
+
+powers 5
+
+predictable 5
+
+production 5
+
+proves 5
+
+road 5
+
+sad 5
+
+school 5
+
+second 5
+
+serious 5
+
+slight 5
+
+smart 5
+
+steven 5
+
+stuff 5
+
+surprising 5
+
+surprisingly 5
+
+suspense 5
+
+taking 5
+
+thinking 5
+
+thought 5
+
+times 5
+
+understand 5
+
+unsettling 5
+
+usually 5
+
+version 5
+
+view 5
+
+visually 5
+
+watch 5
+
+where 5
+
+wild 5
+
+winds 5
+
+actress 4
+
+add 4
+
+affair 4
+
+affecting 4
+
+aims 4
+
+allen 4
+
+always 4
+
+ambitious 4
+
+animated 4
+
+animation 4
+
+anything 4
+
+appreciate 4
+
+become 4
+
+book 4
+
+brilliant 4
+
+bring 4
+
+brings 4
+
+budget 4
+
+care 4
+
+chabrol 4
+
+change 4
+
+chris 4
+
+city 4
+
+cold 4
+
+crafted 4
+
+crime 4
+
+crowd 4
+
+days 4
+
+death 4
+
+deeply 4
+
+definitely 4
+
+different 4
+
+direction 4
+
+downright 4
+
+dream 4
+
+effort 4
+
+ensemble 4
+
+entertainment 4
+
+episode 4
+
+equivalent 4
+
+events 4
+
+everything 4
+
+eyes 4
+
+fails 4
+
+familiar 4
+
+fascinating 4
+
+fast 4
+
+flawed 4
+
+french 4
+
+game 4
+
+gay 4
+
+gorgeous 4
+
+hand 4
+
+happen 4
+
+help 4
+
+imax 4
+
+indulgent 4
+
+insight 4
+
+intelligent 4
+
+interested 4
+
+jones 4
+
+lack 4
+
+lacks 4
+
+leave 4
+
+looking 4
+
+looks 4
+
+m 4
+
+mark 4
+
+masterful 4
+
+melodrama 4
+
+national 4
+
+next 4
+
+none 4
+
+nor 4
+
+novel 4
+
+occasionally 4
+
+otherwise 4
+
+parents 4
+
+part 4
+
+passion 4
+
+period 4
+
+please 4
+
+plotting 4
+
+poor 4
+
+possibly 4
+
+premise 4
+
+problem 4
+
+project 4
+
+provides 4
+
+putting 4
+
+quiet 4
+
+quirky 4
+
+raw 4
+
+reality 4
+
+red 4
+
+relationships 4
+
+result 4
+
+rip 4
+
+role 4
+
+sadly 4
+
+satire 4
+
+seeing 4
+
+sequel 4
+
+series 4
+
+set 4
+
+sexy 4
+
+side 4
+
+sincere 4
+
+slice 4
+
+solondz 4
+
+somewhat 4
+
+soul 4
+
+spielberg 4
+
+stars 4
+
+structure 4
+
+study 4
+
+subject 4
+
+super 4
+
+swimming 4
+
+tell 4
+
+tender 4
+
+thanks 4
+
+thoughtful 4
+
+tired 4
+
+told 4
+
+trash 4
+
+truly 4
+
+under 4
+
+unfortunately 4
+
+unique 4
+
+use 4
+
+values 4
+
+water 4
+
+whatever 4
+
+women 4
+
+worthy 4
+
+x 4
+
+york 4
+
+2 3
+
+able 3
+
+accents 3
+
+accurate 3
+
+achievement 3
+
+achieves 3
+
+actually 3
+
+adaptation 3
+
+adventure 3
+
+african 3
+
+aged 3
+
+along 3
+
+america 3
+
+americans 3
+
+among 3
+
+amounts 3
+
+appears 3
+
+artist 3
+
+ask 3
+
+atmosphere 3
+
+attempts 3
+
+avoid 3
+
+b 3
+
+based 3
+
+bears 3
+
+begins 3
+
+believe 3
+
+bits 3
+
+bizarre 3
+
+bland 3
+
+bleak 3
+
+boring 3
+
+bottom 3
+
+break 3
+
+british 3
+
+broken 3
+
+bunch 3
+
+burr 3
+
+camp 3
+
+captures 3
+
+carvey 3
+
+casting 3
+
+certainly 3
+
+chan 3
+
+charm 3
+
+charmer 3
+
+charms 3
+
+cheap 3
+
+claude 3
+
+college 3
+
+comedies 3
+
+company 3
+
+comprehension 3
+
+considerable 3
+
+consistently 3
+
+constructed 3
+
+conventional 3
+
+cool 3
+
+core 3
+
+corny 3
+
+country 3
+
+created 3
+
+creating 3
+
+creepy 3
+
+crude 3
+
+cynical 3
+
+daughter 3
+
+deal 3
+
+decent 3
+
+degree 3
+
+depression 3
+
+depth 3
+
+deserves 3
+
+details 3
+
+dimensional 3
+
+directorial 3
+
+directors 3
+
+diversion 3
+
+doing 3
+
+double 3
+
+dry 3
+
+during 3
+
+dvd 3
+
+early 3
+
+easily 3
+
+elements 3
+
+emotionally 3
+
+ends 3
+
+energy 3
+
+equal 3
+
+erotic 3
+
+escape 3
+
+execution 3
+
+exotic 3
+
+fall 3
+
+famous 3
+
+fantasies 3
+
+fighting 3
+
+flash 3
+
+flat 3
+
+flaws 3
+
+forces 3
+
+foreign 3
+
+form 3
+
+formula 3
+
+freundlich 3
+
+gags 3
+
+games 3
+
+gem 3
+
+generic 3
+
+genre 3
+
+gentle 3
+
+giant 3
+
+girls 3
+
+godard 3
+
+greatest 3
+
+guess 3
+
+hack 3
+
+ham 3
+
+handed 3
+
+having 3
+
+heartfelt 3
+
+hell 3
+
+highly 3
+
+hilarious 3
+
+holiday 3
+
+homage 3
+
+home 3
+
+honestly 3
+
+hopkins 3
+
+horrifying 3
+
+hot 3
+
+house 3
+
+huge 3
+
+humorous 3
+
+hurt 3
+
+importance 3
+
+impression 3
+
+impressive 3
+
+incomprehensible 3
+
+inept 3
+
+intellectual 3
+
+intelligence 3
+
+intentions 3
+
+intriguing 3
+
+involving 3
+
+issue 3
+
+jaglom 3
+
+keeps 3
+
+kung 3
+
+laughing 3
+
+left 3
+
+likely 3
+
+line 3
+
+magic 3
+
+master 3
+
+memorable 3
+
+men 3
+
+midnight 3
+
+mind 3
+
+moment 3
+
+money 3
+
+mood 3
+
+moral 3
+
+motion 3
+
+moviegoers 3
+
+moviemaking 3
+
+ms 3
+
+mystery 3
+
+natural 3
+
+nature 3
+
+night 3
+
+notice 3
+
+offer 3
+
+open 3
+
+opening 3
+
+opera 3
+
+ordinary 3
+
+pacing 3
+
+paper 3
+
+parable 3
+
+particularly 3
+
+parts 3
+
+paul 3
+
+personal 3
+
+peter 3
+
+pictures 3
+
+places 3
+
+play 3
+
+pleaser 3
+
+plenty 3
+
+poem 3
+
+poignant 3
+
+pointless 3
+
+points 3
+
+politics 3
+
+portrait 3
+
+pow 3
+
+predecessors 3
+
+present 3
+
+process 3
+
+producer 3
+
+rare 3
+
+rarely 3
+
+read 3
+
+realistic 3
+
+recommend 3
+
+relationship 3
+
+remake 3
+
+remember 3
+
+resonant 3
+
+revenge 3
+
+rice 3
+
+rich 3
+
+ride 3
+
+riveting 3
+
+romp 3
+
+run 3
+
+said 3
+
+sandler 3
+
+sane 3
+
+satisfying 3
+
+saved 3
+
+saw 3
+
+scary 3
+
+schmidt 3
+
+scratch 3
+
+seat 3
+
+sentimental 3
+
+sets 3
+
+sexual 3
+
+she 3
+
+shows 3
+
+sign 3
+
+silent 3
+
+simple 3
+
+simplistic 3
+
+since 3
+
+single 3
+
+sit 3
+
+sitting 3
+
+skin 3
+
+soap 3
+
+sort 3
+
+source 3
+
+spirit 3
+
+stand 3
+
+standard 3
+
+starts 3
+
+step 3
+
+strength 3
+
+strictly 3
+
+struggle 3
+
+stylish 3
+
+subtlety 3
+
+subtly 3
+
+suburban 3
+
+superior 3
+
+sure 3
+
+surprise 3
+
+target 3
+
+teen 3
+
+telling 3
+
+terrific 3
+
+themes 3
+
+thick 3
+
+think 3
+
+thrillers 3
+
+tone 3
+
+top 3
+
+touch 3
+
+toward 3
+
+tragedy 3
+
+transforms 3
+
+tries 3
+
+trifle 3
+
+triumph 3
+
+true 3
+
+truth 3
+
+try 3
+
+uneven 3
+
+unfolds 3
+
+universal 3
+
+uses 3
+
+usual 3
+
+utterly 3
+
+vampire 3
+
+van 3
+
+viewing 3
+
+vincent 3
+
+violent 3
+
+virtues 3
+
+voice 3
+
+vulgar 3
+
+walk 3
+
+wanted 3
+
+war 3
+
+washington 3
+
+weak 3
+
+winning 3
+
+witness 3
+
+wonderful 3
+
+words 3
+
+working 3
+
+worst 3
+
+writer\ 3
+
+writing 3
+
+written 3
+
+wrong 3
+
+10 2
+
+100 2
+
+50 2
+
+60s 2
+
+90 2
+
+abandon 2
+
+absorbing 2
+
+accomplished 2
+
+accomplishes 2
+
+account 2
+
+acted 2
+
+addition 2
+
+admire 2
+
+aggressive 2
+
+ago 2
+
+alive 2
+
+alone 2
+
+alternative 2
+
+although 2
+
+amateurish 2
+
+amount 2
+
+anachronistic 2
+
+animal 2
+
+annoying 2
+
+anthony 2
+
+anti 2
+
+appeal 2
+
+appear 2
+
+approach 2
+
+appropriate 2
+
+arrives 2
+
+arriving 2
+
+artificial 2
+
+astonishing 2
+
+attitude 2
+
+austin 2
+
+auteur 2
+
+average 2
+
+awards 2
+
+awareness 2
+
+awkwardness 2
+
+badly 2
+
+band 2
+
+base 2
+
+basic 2
+
+battle 2
+
+bear 2
+
+beat 2
+
+beauty 2
+
+beings 2
+
+below 2
+
+beneath 2
+
+betrayal 2
+
+bielinsky 2
+
+bio 2
+
+birthday 2
+
+blaxploitation 2
+
+blend 2
+
+blown 2
+
+blue 2
+
+bodies 2
+
+brainer 2
+
+breathtakingly 2
+
+brilliantly 2
+
+broad 2
+
+brothers 2
+
+bruckheimer 2
+
+budding 2
+
+build 2
+
+business 2
+
+bygone 2
+
+cable 2
+
+cacoyannis 2
+
+candy 2
+
+capability 2
+
+capture 2
+
+caricatures 2
+
+carrying 2
+
+celebration 2
+
+cell 2
+
+center 2
+
+chance 2
+
+changing 2
+
+chaos 2
+
+characterizations 2
+
+charismatic 2
+
+charlotte 2
+
+check 2
+
+cheek 2
+
+chills 2
+
+chimps 2
+
+clad 2
+
+clearly 2
+
+cleverly 2
+
+cliche 2
+
+cliched 2
+
+cloying 2
+
+clumsy 2
+
+code 2
+
+cohesion 2
+
+combines 2
+
+comedian 2
+
+comedic 2
+
+complaint 2
+
+completely 2
+
+complex 2
+
+complications 2
+
+compromise 2
+
+compromised 2
+
+computer 2
+
+con 2
+
+conceived 2
+
+confident 2
+
+conflicts 2
+
+connect 2
+
+connections 2
+
+conscious 2
+
+consider 2
+
+constant 2
+
+constructs 2
+
+contact 2
+
+contemporary 2
+
+context 2
+
+convincing 2
+
+cop 2
+
+copy 2
+
+corners 2
+
+cost 2
+
+costume 2
+
+coulda 2
+
+course 2
+
+create 2
+
+creative 2
+
+creature 2
+
+credit 2
+
+crimes 2
+
+crisis 2
+
+cross 2
+
+crudup 2
+
+crush 2
+
+cut 2
+
+cuts 2
+
+damned 2
+
+dangerous 2
+
+daring 2
+
+darker 2
+
+davis 2
+
+dawson 2
+
+deadpan 2
+
+decade 2
+
+decades 2
+
+deep 2
+
+deeper 2
+
+delicately 2
+
+delights 2
+
+delivered 2
+
+demanding 2
+
+demme 2
+
+denouement 2
+
+design 2
+
+desperate 2
+
+desperately 2
+
+destruction 2
+
+detailed 2
+
+developed 2
+
+disappointed 2
+
+disappointing 2
+
+dismissed 2
+
+disney 2
+
+disposable 2
+
+distinctly 2
+
+dog 2
+
+dogs 2
+
+dong 2
+
+doubt 2
+
+drag 2
+
+drawn 2
+
+dreadful 2
+
+dreary 2
+
+due 2
+
+dumb 2
+
+e 2
+
+each 2
+
+earlier 2
+
+earn 2
+
+edge 2
+
+effective 2
+
+eight 2
+
+either 2
+
+element 2
+
+empathy 2
+
+emphasizes 2
+
+endearing 2
+
+ending 2
+
+ensures 2
+
+entertained 2
+
+enthusiasm 2
+
+entirely 2
+
+eric 2
+
+essence 2
+
+essentially 2
+
+evening 2
+
+eventually 2
+
+evil 2
+
+evocative 2
+
+evoke 2
+
+exaggerated 2
+
+excellent 2
+
+exercise 2
+
+exist 2
+
+existed 2
+
+exit 2
+
+expect 2
+
+expectation 2
+
+expected 2
+
+expedience 2
+
+experimental 2
+
+extended 2
+
+extremely 2
+
+eye 2
+
+fable 2
+
+fact 2
+
+failed 2
+
+false 2
+
+familial 2
+
+families 2
+
+fantasy 2
+
+fatal 2
+
+father 2
+
+favor 2
+
+favors 2
+
+fears 2
+
+felt 2
+
+female 2
+
+ferrara 2
+
+fest 2
+
+fi 2
+
+field 2
+
+fighter 2
+
+final 2
+
+finding 2
+
+fine 2
+
+finish 2
+
+fish 2
+
+fisted 2
+
+fit 2
+
+five 2
+
+fizzle 2
+
+flashy 2
+
+flicks 2
+
+follow 2
+
+followed 2
+
+force 2
+
+found 2
+
+four 2
+
+france 2
+
+franchise 2
+
+freaks 2
+
+free 2
+
+fresh 2
+
+freshness 2
+
+fully 2
+
+funnier 2
+
+further 2
+
+gag 2
+
+gallo 2
+
+garbage 2
+
+general 2
+
+generous 2
+
+gently 2
+
+genuine 2
+
+ghosts 2
+
+glass 2
+
+goal 2
+
+goldmember 2
+
+got 2
+
+green 2
+
+greene 2
+
+griffiths 2
+
+gripping 2
+
+growing 2
+
+grown 2
+
+guessing 2
+
+handle 2
+
+handled 2
+
+handsomely 2
+
+hanks 2
+
+happy 2
+
+hardened 2
+
+hardly 2
+
+harmless 2
+
+hate 2
+
+haynes 2
+
+head 2
+
+heard 2
+
+hearts 2
+
+heaven 2
+
+hero 2
+
+heroes 2
+
+highest 2
+
+himself 2
+
+historical 2
+
+hits 2
+
+hollow 2
+
+holm 2
+
+hoped 2
+
+humane 2
+
+ice 2
+
+imagery 2
+
+imagine 2
+
+imbued 2
+
+impossible 2
+
+impressed 2
+
+improbable 2
+
+improve 2
+
+indeed 2
+
+indication 2
+
+inducing 2
+
+initial 2
+
+injects 2
+
+innuendo 2
+
+insane 2
+
+inside 2
+
+insights 2
+
+inspiring 2
+
+instead 2
+
+insultingly 2
+
+intact 2
+
+intensity 2
+
+intentioned 2
+
+interest 2
+
+intimate 2
+
+intoxicating 2
+
+inventive 2
+
+invigorating 2
+
+irish 2
+
+ironic 2
+
+james 2
+
+japan 2
+
+jay 2
+
+jean 2
+
+jerry 2
+
+job 2
+
+joke 2
+
+journey 2
+
+joy 2
+
+julie 2
+
+jumble 2
+
+kevin 2
+
+key 2
+
+kid 2
+
+killer 2
+
+king 2
+
+knock 2
+
+knows 2
+
+labour 2
+
+land 2
+
+largely 2
+
+late 2
+
+lawrence 2
+
+layered 2
+
+lazy 2
+
+lead 2
+
+learning 2
+
+leaving 2
+
+lee 2
+
+legged 2
+
+length 2
+
+letting 2
+
+level 2
+
+lewis 2
+
+lie 2
+
+lifts 2
+
+liked 2
+
+limp 2
+
+lines 2
+
+lingering 2
+
+list 2
+
+live 2
+
+loaded 2
+
+lonely 2
+
+loose 2
+
+lopez 2
+
+loses 2
+
+loss 2
+
+lots 2
+
+loves 2
+
+lower 2
+
+lust 2
+
+lying 2
+
+lyrical 2
+
+macabre 2
+
+madonna 2
+
+magical 2
+
+mainstream 2
+
+maintains 2
+
+malcolm 2
+
+mamet 2
+
+manipulative 2
+
+martha 2
+
+mary 2
+
+maybe 2
+
+meandering 2
+
+means 2
+
+meaty 2
+
+mechanical 2
+
+mediocre 2
+
+memory 2
+
+mendes 2
+
+mention 2
+
+merchant 2
+
+mesmerizing 2
+
+michael 2
+
+michell 2
+
+million 2
+
+minor 2
+
+mix 2
+
+mixed 2
+
+modest 2
+
+monty 2
+
+musical 2
+
+must 2
+
+mysterious 2
+
+myth 2
+
+naturally 2
+
+natured 2
+
+naughty 2
+
+near 2
+
+necessarily 2
+
+needed 2
+
+nicely 2
+
+non 2
+
+nuances 2
+
+obviously 2
+
+occasional 2
+
+oddest 2
+
+odds 2
+
+offbeat 2
+
+offensive 2
+
+offering 2
+
+older 2
+
+order 2
+
+oscar 2
+
+outer 2
+
+overall 2
+
+overcome 2
+
+packed 2
+
+pairing 2
+
+palpable 2
+
+parade 2
+
+parallels 2
+
+parody 2
+
+passionate 2
+
+pat 2
+
+pauline 2
+
+pay 2
+
+payne 2
+
+pays 2
+
+pedigree 2
+
+penance 2
+
+perfect 2
+
+perfectly 2
+
+person 2
+
+perverse 2
+
+phones 2
+
+pianist 2
+
+pick 2
+
+piffle 2
+
+pile 2
+
+pinnacle 2
+
+pity 2
+
+players 2
+
+plus 2
+
+polanski 2
+
+politically 2
+
+ponder 2
+
+pool 2
+
+pop 2
+
+popcorn 2
+
+possibilities 2
+
+possible 2
+
+posturing 2
+
+potent 2
+
+power 2
+
+practically 2
+
+precious 2
+
+predecessor 2
+
+pretend 2
+
+pretensions 2
+
+pretty 2
+
+primary 2
+
+proceedings 2
+
+processed 2
+
+prospect 2
+
+prove 2
+
+provocative 2
+
+psycho 2
+
+publishing 2
+
+pulls 2
+
+punch 2
+
+purely 2
+
+purpose 2
+
+pushes 2
+
+puts 2
+
+puzzling 2
+
+q 2
+
+queen 2
+
+question 2
+
+questions 2
+
+quietly 2
+
+ramsay 2
+
+random 2
+
+ranks 2
+
+reaching 2
+
+ready 2
+
+realization 2
+
+recommended 2
+
+recycled 2
+
+redundant 2
+
+reflection 2
+
+refreshingly 2
+
+release 2
+
+released 2
+
+relic 2
+
+remains 2
+
+remarkable 2
+
+reno 2
+
+respect 2
+
+rest 2
+
+retread 2
+
+revealed 2
+
+revealing 2
+
+reveals 2
+
+rhythms 2
+
+robert 2
+
+roger 2
+
+roll 2
+
+roman 2
+
+room 2
+
+rooted 2
+
+routine 2
+
+running 2
+
+runs 2
+
+ruthless 2
+
+saccharine 2
+
+sanguine 2
+
+sarah 2
+
+saying 2
+
+scares 2
+
+scene 2
+
+sci 2
+
+scores 2
+
+scrapbook 2
+
+screenwriter 2
+
+screenwriters 2
+
+scruffy 2
+
+secret 2
+
+seeming 2
+
+sell 2
+
+send 2
+
+sensational 2
+
+sensuality 2
+
+sequence 2
+
+sequences 2
+
+seriously 2
+
+serve 2
+
+setting 2
+
+settles 2
+
+seven 2
+
+several 2
+
+shadows 2
+
+shainberg 2
+
+shallow 2
+
+shapeless 2
+
+sharp 2
+
+shifting 2
+
+shock 2
+
+shocker 2
+
+shooting 2
+
+shyamalan 2
+
+situation 2
+
+size 2
+
+slack 2
+
+sleek 2
+
+sleep 2
+
+sloppy 2
+
+smug 2
+
+social 2
+
+society 2
+
+soderbergh 2
+
+somehow 2
+
+somewhere 2
+
+song 2
+
+soon 2
+
+sophisticated 2
+
+sophomoric 2
+
+soulful 2
+
+souls 2
+
+sounding 2
+
+sounds 2
+
+soundtrack 2
+
+south 2
+
+space 2
+
+spectacle 2
+
+spider 2
+
+spooky 2
+
+squeezed 2
+
+stage 2
+
+stale 2
+
+standards 2
+
+staring 2
+
+started 2
+
+startling 2
+
+states 2
+
+static 2
+
+steers 2
+
+stirring 2
+
+stories 2
+
+storyteller 2
+
+strains 2
+
+strange 2
+
+strangely 2
+
+striking 2
+
+string 2
+
+stumbles 2
+
+stunts 2
+
+stupid 2
+
+stylized 2
+
+subjects 2
+
+substance 2
+
+subtle 2
+
+succeeds 2
+
+successfully 2
+
+suck 2
+
+sudden 2
+
+sugarman 2
+
+sum 2
+
+superb 2
+
+superficial 2
+
+surface 2
+
+surreal 2
+
+suspect 2
+
+suspenseful 2
+
+sustain 2
+
+swallow 2
+
+swinging 2
+
+sympathy 2
+
+talent 2
+
+talented 2
+
+taste 2
+
+tatters 2
+
+team 2
+
+tedious 2
+
+teeth 2
+
+television 2
+
+tepid 2
+
+terms 2
+
+theme 2
+
+thin 2
+
+thomas 2
+
+thrilling 2
+
+throw 2
+
+ties 2
+
+tiresome 2
+
+titular 2
+
+tom 2
+
+tomorrow 2
+
+took 2
+
+toothless 2
+
+tough 2
+
+traveler 2
+
+treasure 2
+
+treat 2
+
+trouble 2
+
+turgid 2
+
+turned 2
+
+turning 2
+
+twenty 2
+
+typical 2
+
+ugly 2
+
+ultimate 2
+
+uncomfortable 2
+
+undone 2
+
+unexpected 2
+
+unfolding 2
+
+uniformly 2
+
+unintentional 2
+
+unless 2
+
+unlike 2
+
+unnecessary 2
+
+uplifting 2
+
+used 2
+
+using 2
+
+value 2
+
+variety 2
+
+ver 2
+
+vh1 2
+
+viewer 2
+
+vintage 2
+
+vision 2
+
+vivid 2
+
+warm 2
+
+ways 2
+
+wears 2
+
+week 2
+
+weight 2
+
+weird 2
+
+welcome 2
+
+whom 2
+
+williams 2
+
+win 2
+
+windtalkers 2
+
+wiser 2
+
+witty 2
+
+wonder 2
+
+woo 2
+
+woody 2
+
+worn 2
+
+worse 2
+
+ya 2
+
+yes 2
+
+C 3 1000
+
+the 887
+
+a 616
+
+and 544
+
+of 538
+
+to 341
+
+s 301
+
+is 280
+
+it 267
+
+that 222
+
+in 220
+
+as 156
+
+but 148
+
+film 133
+
+with 129
+
+its 116
+
+movie 116
+
+this 111
+
+for 100
+
+an 99
+
+you 88
+
+one 77
+
+not 75
+
+has 69
+
+like 69
+
+on 69
+
+at 68
+
+n 67
+
+are 66
+
+by 66
+
+from 66
+
+t 66
+
+be 63
+
+about 62
+
+more 61
+
+than 58
+
+all 56
+
+i 53
+
+his 52
+
+so 47
+
+good 45
+
+lrb 43
+
+rrb 43
+
+story 42
+
+have 40
+
+if 39
+
+up 39
+
+into 38
+
+too 38
+
+just 37
+
+most 37
+
+who 37
+
+some 35
+
+can 34
+
+or 34
+
+there 34
+
+` 33
+
+director 33
+
+out 33
+
+only 31
+
+even 30
+
+their 30
+
+what 30
+
+characters 29
+
+does 29
+
+much 29
+
+very 29
+
+`` 28
+
+been 28
+
+comedy 28
+
+he 28
+
+little 28
+
+time 28
+
+well 28
+
+will 28
+
+love 27
+
+may 27
+
+no 27
+
+funny 26
+
+do 25
+
+off 25
+
+through 25
+
+us 25
+
+when 25
+
+would 25
+
+any 24
+
+movies 24
+
+they 24
+
+which 24
+
+your 24
+
+action 22
+
+enough 22
+
+make 22
+
+new 22
+
+life 21
+
+way 21
+
+we 21
+
+own 20
+
+while 20
+
+big 19
+
+never 19
+
+though 19
+
+bad 18
+
+both 18
+
+best 17
+
+get 17
+
+had 17
+
+heart 17
+
+makes 17
+
+see 17
+
+self 17
+
+something 17
+
+character 16
+
+first 16
+
+made 16
+
+man 16
+
+re 16
+
+right 16
+
+still 16
+
+actors 15
+
+because 15
+
+better 15
+
+less 15
+
+might 15
+
+nothing 15
+
+our 15
+
+screen 15
+
+should 15
+
+ultimately 15
+
+without 15
+
+after 14
+
+also 14
+
+come 14
+
+could 14
+
+ever 14
+
+films 14
+
+many 14
+
+old 14
+
+sense 14
+
+them 14
+
+work 14
+
+audience 13
+
+comes 13
+
+every 13
+
+feels 13
+
+few 13
+
+fun 13
+
+her 13
+
+history 13
+
+hollywood 13
+
+how 13
+
+look 13
+
+over 13
+
+performance 13
+
+rather 13
+
+real 13
+
+those 13
+
+despite 12
+
+drama 12
+
+end 12
+
+feel 12
+
+long 12
+
+other 12
+
+people 12
+
+plays 12
+
+romantic 12
+
+script 12
+
+tale 12
+
+things 12
+
+ve 12
+
+was 12
+
+world 12
+
+back 11
+
+cast 11
+
+comic 11
+
+gives 11
+
+kind 11
+
+last 11
+
+minutes 11
+
+often 11
+
+two 11
+
+works 11
+
+cinema 10
+
+down 10
+
+filmmaking 10
+
+gets 10
+
+great 10
+
+half 10
+
+hard 10
+
+here 10
+
+high 10
+
+moments 10
+
+narrative 10
+
+original 10
+
+performances 10
+
+quite 10
+
+really 10
+
+seems 10
+
+seen 10
+
+show 10
+
+such 10
+
+thriller 10
+
+were 10
+
+again 9
+
+american 9
+
+another 9
+
+being 9
+
+between 9
+
+compelling 9
+
+dialogue 9
+
+else 9
+
+emotional 9
+
+far 9
+
+goes 9
+
+going 9
+
+humor 9
+
+light 9
+
+making 9
+
+middle 9
+
+mostly 9
+
+music 9
+
+recent 9
+
+same 9
+
+screenplay 9
+
+sex 9
+
+simply 9
+
+strong 9
+
+summer 9
+
+sweet 9
+
+take 9
+
+then 9
+
+thing 9
+
+trying 9
+
+visual 9
+
+year 9
+
+young 9
+
+acting 8
+
+before 8
+
+clever 8
+
+d 8
+
+delivers 8
+
+did 8
+
+documentary 8
+
+earnest 8
+
+experience 8
+
+feature 8
+
+finally 8
+
+find 8
+
+flick 8
+
+full 8
+
+itself 8
+
+keep 8
+
+moving 8
+
+offers 8
+
+picture 8
+
+piece 8
+
+pieces 8
+
+plot 8
+
+probably 8
+
+special 8
+
+takes 8
+
+why 8
+
+worth 8
+
+actor 7
+
+almost 7
+
+around 7
+
+art 7
+
+beautiful 7
+
+becomes 7
+
+dark 7
+
+done 7
+
+dramatic 7
+
+engaging 7
+
+everyone 7
+
+face 7
+
+feeling 7
+
+filmmaker 7
+
+filmmakers 7
+
+hour 7
+
+hours 7
+
+human 7
+
+interesting 7
+
+lot 7
+
+me 7
+
+minute 7
+
+need 7
+
+once 7
+
+point 7
+
+political 7
+
+reason 7
+
+scenes 7
+
+seem 7
+
+silly 7
+
+small 7
+
+sometimes 7
+
+star 7
+
+storytelling 7
+
+style 7
+
+these 7
+
+three 7
+
+title 7
+
+together 7
+
+want 7
+
+white 7
+
+whole 7
+
+woman 7
+
+years 7
+
+yet 7
+
+above 6
+
+already 6
+
+anyone 6
+
+audiences 6
+
+beautifully 6
+
+beyond 6
+
+boy 6
+
+charming 6
+
+coming 6
+
+easy 6
+
+effects 6
+
+emotions 6
+
+enjoyable 6
+
+entertaining 6
+
+epic 6
+
+examination 6
+
+family 6
+
+girl 6
+
+give 6
+
+guys 6
+
+him 6
+
+horror 6
+
+involved 6
+
+laugh 6
+
+laughs 6
+
+least 6
+
+manages 6
+
+matter 6
+
+meditation 6
+
+modern 6
+
+mr 6
+
+my 6
+
+nearly 6
+
+neither 6
+
+obvious 6
+
+pleasure 6
+
+powerful 6
+
+put 6
+
+rock 6
+
+say 6
+
+short 6
+
+solid 6
+
+start 6
+
+theater 6
+
+turn 6
+
+tv 6
+
+upon 6
+
+watching 6
+
+whose 6
+
+wit 6
+
+writer 6
+
+across 5
+
+against 5
+
+age 5
+
+amusing 5
+
+apart 5
+
+attempt 5
+
+away 5
+
+barely 5
+
+behind 5
+
+bit 5
+
+black 5
+
+ca 5
+
+call 5
+
+camera 5
+
+career 5
+
+cartoon 5
+
+case 5
+
+children 5
+
+cinematic 5
+
+cliches 5
+
+concept 5
+
+contrived 5
+
+culture 5
+
+date 5
+
+david 5
+
+day 5
+
+dead 5
+
+debut 5
+
+difficult 5
+
+directed 5
+
+dull 5
+
+enjoy 5
+
+era 5
+
+especially 5
+
+evokes 5
+
+fairly 5
+
+fans 5
+
+frame 5
+
+given 5
+
+go 5
+
+gone 5
+
+goofy 5
+
+heavy 5
+
+hope 5
+
+idea 5
+
+images 5
+
+indie 5
+
+intrigue 5
+
+john 5
+
+jokes 5
+
+kids 5
+
+know 5
+
+latest 5
+
+leaves 5
+
+lives 5
+
+ll 5
+
+low 5
+
+material 5
+
+mess 5
+
+message 5
+
+nice 5
+
+now 5
+
+ones 5
+
+perhaps 5
+
+place 5
+
+playing 5
+
+poetry 5
+
+powers 5
+
+predictable 5
+
+production 5
+
+proves 5
+
+road 5
+
+sad 5
+
+school 5
+
+second 5
+
+serious 5
+
+slight 5
+
+smart 5
+
+steven 5
+
+stuff 5
+
+surprising 5
+
+surprisingly 5
+
+suspense 5
+
+taking 5
+
+thinking 5
+
+thought 5
+
+times 5
+
+understand 5
+
+unsettling 5
+
+usually 5
+
+version 5
+
+view 5
+
+visually 5
+
+watch 5
+
+where 5
+
+wild 5
+
+winds 5
+
+actress 4
+
+add 4
+
+affair 4
+
+affecting 4
+
+aims 4
+
+allen 4
+
+always 4
+
+ambitious 4
+
+animated 4
+
+animation 4
+
+anything 4
+
+appreciate 4
+
+become 4
+
+book 4
+
+brilliant 4
+
+bring 4
+
+brings 4
+
+budget 4
+
+care 4
+
+chabrol 4
+
+change 4
+
+chris 4
+
+city 4
+
+cold 4
+
+crafted 4
+
+crime 4
+
+crowd 4
+
+days 4
+
+death 4
+
+deeply 4
+
+definitely 4
+
+different 4
+
+direction 4
+
+downright 4
+
+dream 4
+
+effort 4
+
+ensemble 4
+
+entertainment 4
+
+episode 4
+
+equivalent 4
+
+events 4
+
+everything 4
+
+eyes 4
+
+fails 4
+
+familiar 4
+
+fascinating 4
+
+fast 4
+
+flawed 4
+
+french 4
+
+game 4
+
+gay 4
+
+gorgeous 4
+
+hand 4
+
+happen 4
+
+help 4
+
+imax 4
+
+indulgent 4
+
+insight 4
+
+intelligent 4
+
+interested 4
+
+jones 4
+
+lack 4
+
+lacks 4
+
+leave 4
+
+looking 4
+
+looks 4
+
+m 4
+
+mark 4
+
+masterful 4
+
+melodrama 4
+
+national 4
+
+next 4
+
+none 4
+
+nor 4
+
+novel 4
+
+occasionally 4
+
+otherwise 4
+
+parents 4
+
+part 4
+
+passion 4
+
+period 4
+
+please 4
+
+plotting 4
+
+poor 4
+
+possibly 4
+
+premise 4
+
+problem 4
+
+project 4
+
+provides 4
+
+putting 4
+
+quiet 4
+
+quirky 4
+
+raw 4
+
+reality 4
+
+red 4
+
+relationships 4
+
+result 4
+
+rip 4
+
+role 4
+
+sadly 4
+
+satire 4
+
+seeing 4
+
+sequel 4
+
+series 4
+
+set 4
+
+sexy 4
+
+side 4
+
+sincere 4
+
+slice 4
+
+solondz 4
+
+somewhat 4
+
+soul 4
+
+spielberg 4
+
+stars 4
+
+structure 4
+
+study 4
+
+subject 4
+
+super 4
+
+swimming 4
+
+tell 4
+
+tender 4
+
+thanks 4
+
+thoughtful 4
+
+tired 4
+
+told 4
+
+trash 4
+
+truly 4
+
+under 4
+
+unfortunately 4
+
+unique 4
+
+use 4
+
+values 4
+
+water 4
+
+whatever 4
+
+women 4
+
+worthy 4
+
+x 4
+
+york 4
+
+2 3
+
+able 3
+
+accents 3
+
+accurate 3
+
+achievement 3
+
+achieves 3
+
+actually 3
+
+adaptation 3
+
+adventure 3
+
+african 3
+
+aged 3
+
+along 3
+
+america 3
+
+americans 3
+
+among 3
+
+amounts 3
+
+appears 3
+
+artist 3
+
+ask 3
+
+atmosphere 3
+
+attempts 3
+
+avoid 3
+
+b 3
+
+based 3
+
+bears 3
+
+begins 3
+
+believe 3
+
+bits 3
+
+bizarre 3
+
+bland 3
+
+bleak 3
+
+boring 3
+
+bottom 3
+
+break 3
+
+british 3
+
+broken 3
+
+bunch 3
+
+burr 3
+
+camp 3
+
+captures 3
+
+carvey 3
+
+casting 3
+
+certainly 3
+
+chan 3
+
+charm 3
+
+charmer 3
+
+charms 3
+
+cheap 3
+
+claude 3
+
+college 3
+
+comedies 3
+
+company 3
+
+comprehension 3
+
+considerable 3
+
+consistently 3
+
+constructed 3
+
+conventional 3
+
+cool 3
+
+core 3
+
+corny 3
+
+country 3
+
+created 3
+
+creating 3
+
+creepy 3
+
+crude 3
+
+cynical 3
+
+daughter 3
+
+deal 3
+
+decent 3
+
+degree 3
+
+depression 3
+
+depth 3
+
+deserves 3
+
+details 3
+
+dimensional 3
+
+directorial 3
+
+directors 3
+
+diversion 3
+
+doing 3
+
+double 3
+
+dry 3
+
+during 3
+
+dvd 3
+
+early 3
+
+easily 3
+
+elements 3
+
+emotionally 3
+
+ends 3
+
+energy 3
+
+equal 3
+
+erotic 3
+
+escape 3
+
+execution 3
+
+exotic 3
+
+fall 3
+
+famous 3
+
+fantasies 3
+
+fighting 3
+
+flash 3
+
+flat 3
+
+flaws 3
+
+forces 3
+
+foreign 3
+
+form 3
+
+formula 3
+
+freundlich 3
+
+gags 3
+
+games 3
+
+gem 3
+
+generic 3
+
+genre 3
+
+gentle 3
+
+giant 3
+
+girls 3
+
+godard 3
+
+greatest 3
+
+guess 3
+
+hack 3
+
+ham 3
+
+handed 3
+
+having 3
+
+heartfelt 3
+
+hell 3
+
+highly 3
+
+hilarious 3
+
+holiday 3
+
+homage 3
+
+home 3
+
+honestly 3
+
+hopkins 3
+
+horrifying 3
+
+hot 3
+
+house 3
+
+huge 3
+
+humorous 3
+
+hurt 3
+
+importance 3
+
+impression 3
+
+impressive 3
+
+incomprehensible 3
+
+inept 3
+
+intellectual 3
+
+intelligence 3
+
+intentions 3
+
+intriguing 3
+
+involving 3
+
+issue 3
+
+jaglom 3
+
+keeps 3
+
+kung 3
+
+laughing 3
+
+left 3
+
+likely 3
+
+line 3
+
+magic 3
+
+master 3
+
+memorable 3
+
+men 3
+
+midnight 3
+
+mind 3
+
+moment 3
+
+money 3
+
+mood 3
+
+moral 3
+
+motion 3
+
+moviegoers 3
+
+moviemaking 3
+
+ms 3
+
+mystery 3
+
+natural 3
+
+nature 3
+
+night 3
+
+notice 3
+
+offer 3
+
+open 3
+
+opening 3
+
+opera 3
+
+ordinary 3
+
+pacing 3
+
+paper 3
+
+parable 3
+
+particularly 3
+
+parts 3
+
+paul 3
+
+personal 3
+
+peter 3
+
+pictures 3
+
+places 3
+
+play 3
+
+pleaser 3
+
+plenty 3
+
+poem 3
+
+poignant 3
+
+pointless 3
+
+points 3
+
+politics 3
+
+portrait 3
+
+pow 3
+
+predecessors 3
+
+present 3
+
+process 3
+
+producer 3
+
+rare 3
+
+rarely 3
+
+read 3
+
+realistic 3
+
+recommend 3
+
+relationship 3
+
+remake 3
+
+remember 3
+
+resonant 3
+
+revenge 3
+
+rice 3
+
+rich 3
+
+ride 3
+
+riveting 3
+
+romp 3
+
+run 3
+
+said 3
+
+sandler 3
+
+sane 3
+
+satisfying 3
+
+saved 3
+
+saw 3
+
+scary 3
+
+schmidt 3
+
+scratch 3
+
+seat 3
+
+sentimental 3
+
+sets 3
+
+sexual 3
+
+she 3
+
+shows 3
+
+sign 3
+
+silent 3
+
+simple 3
+
+simplistic 3
+
+since 3
+
+single 3
+
+sit 3
+
+sitting 3
+
+skin 3
+
+soap 3
+
+sort 3
+
+source 3
+
+spirit 3
+
+stand 3
+
+standard 3
+
+starts 3
+
+step 3
+
+strength 3
+
+strictly 3
+
+struggle 3
+
+stylish 3
+
+subtlety 3
+
+subtly 3
+
+suburban 3
+
+superior 3
+
+sure 3
+
+surprise 3
+
+target 3
+
+teen 3
+
+telling 3
+
+terrific 3
+
+themes 3
+
+thick 3
+
+think 3
+
+thrillers 3
+
+tone 3
+
+top 3
+
+touch 3
+
+toward 3
+
+tragedy 3
+
+transforms 3
+
+tries 3
+
+trifle 3
+
+triumph 3
+
+true 3
+
+truth 3
+
+try 3
+
+uneven 3
+
+unfolds 3
+
+universal 3
+
+uses 3
+
+usual 3
+
+utterly 3
+
+vampire 3
+
+van 3
+
+viewing 3
+
+vincent 3
+
+violent 3
+
+virtues 3
+
+voice 3
+
+vulgar 3
+
+walk 3
+
+wanted 3
+
+war 3
+
+washington 3
+
+weak 3
+
+winning 3
+
+witness 3
+
+wonderful 3
+
+words 3
+
+working 3
+
+worst 3
+
+writer\ 3
+
+writing 3
+
+written 3
+
+wrong 3
+
+Tempo: 68,000000 ms
+Comparacoes: 9517157

@@ -16,19 +16,19 @@ return NULL;
 
 int fatorBalanceamento(pNodoA* a){
 
-    return (Altura(a->esq) - Altura(a->dir));
+    return (Altura(a->esq) - Altura(a->dir));//retorna o faotor de balanceamento da arvore
 }
 int BalanceamentoABP(pNodoA *a)
 {
     int x = 0, x1 = 0, x2 = 0;
-    if (a == NULL)
+    if (a == NULL)//verifica se a arvore esta vazia
         return 0;
     else
     {
         x1 = Altura(a->dir);
         x2 = Altura(a->esq);
         x = x1 - x2;
-        return x + BalanceamentoABP(a->dir) + BalanceamentoABP(a->esq) + 0;
+        return x + BalanceamentoABP(a->dir) + BalanceamentoABP(a->esq) + 0;//retorna o fator de balanceamento
     }
 
 }
@@ -38,8 +38,8 @@ int Altura (pNodoA *a){
     if (a == NULL)
         return 0;
     else{
-     Alt_Esq = Altura (a->esq);
-     Alt_Dir = Altura (a->dir);
+     Alt_Esq = Altura (a->esq);//calcula a altura da sub-arvore esquerda
+     Alt_Dir = Altura (a->dir);//calcula a altura da subarvore esquerda
         if (Alt_Esq > Alt_Dir)
             return (1 + Alt_Esq);
         else
@@ -49,7 +49,7 @@ int Altura (pNodoA *a){
 
 int ContaAVL(pNodoA *a){
     if(a != NULL)
-        return ContaAVL(a->esq) + ContaAVL(a->dir) + 1;
+        return ContaAVL(a->esq) + ContaAVL(a->dir) + 1;//conta  aquantidade de novod da avl
     else
         return 0;
 }
@@ -57,18 +57,18 @@ int ContaAVL(pNodoA *a){
 int percorrePreFixadoEsquerda(pNodoA *a){
     int n = 0;
     if (a != NULL){
-        n++;
+        n++;//conta  quantidade de nodos da AVL
         percorrePreFixadoEsquerda(a->esq);
         percorrePreFixadoEsquerda(a->dir);
     }
     return n;
 }
 
-void centralEsquerda(pNodoA *a){
+void centralEsquerda(pNodoA *a){//percorre a arvore com o caminhamento central esquerda para printar em ordem alfabetica
     int x;
     if (a != NULL){
         centralEsquerda(a->esq);
-        if(a->info.quantidade > 1){
+        if(a->info.quantidade > 1){//procura pela frequencia
             x = a->info.quantidade;
             while(x>0){
                 puts(a->info.palavra);
@@ -83,20 +83,25 @@ void centralEsquerda(pNodoA *a){
 
 
 
-int consultaAVL(pNodoA *a, char palavra[]){
+int consultaAVL(pNodoA *a, char palavra[]){//consulta o nodo cuja palavra foi passada como parametro
     while (a!=NULL){
-        if (strcmp(a->info.palavra, palavra) == 0)
-            return a->info.quantidade; //achou então retorna o ponteiro para o nodo
-        else
-            if (strcmp(palavra, a->info.palavra) < 0)
-                a = a->esq;
-            else
+        if (strcmp(a->info.palavra, palavra) == 0){
+            contador_comparacoes ++;
+            return a->info.quantidade; //achou então retorna a frequerncia do nodo procuradp
+        }else{
+            if (strcmp(palavra, a->info.palavra) < 0){//verifica se palavra vem antes no alfabeto
+                    contador_comparacoes ++;
+                    a = a->esq;
+            }else{//se a palavra vir depoir no alfabeto
+                contador_comparacoes ++;
                 a = a->dir;
+            }
+        }
     }
     return 0; //se não achou
 }
 
-pNodoA* rotacao_esquerda(pNodoA *p){
+pNodoA* rotacao_esquerda(pNodoA *p){//realiza rotacao
     pNodoA *z;
     contador_rotacao_simples_esquerda ++;
     z = p->dir;
@@ -107,7 +112,7 @@ pNodoA* rotacao_esquerda(pNodoA *p){
     return p;
 }
 
-pNodoA* rotacao_direita(pNodoA* p){
+pNodoA* rotacao_direita(pNodoA* p){//realiza rotacao
     pNodoA *u;
     contador_rotacao_simples_direita ++;
     u = p->esq;
@@ -118,7 +123,7 @@ pNodoA* rotacao_direita(pNodoA* p){
     return p;
 }
 
-pNodoA* rotacao_dupla_esquerda (pNodoA *p){
+pNodoA* rotacao_dupla_esquerda (pNodoA *p){//realiza rotacao
     pNodoA *z, *y;
     contador_rotacao_dupla_esquerda ++;
     z = p->dir;
@@ -135,7 +140,7 @@ pNodoA* rotacao_dupla_esquerda (pNodoA *p){
     return p;
 }
 
-pNodoA* rotacao_dupla_direita (pNodoA* p){
+pNodoA* rotacao_dupla_direita (pNodoA* p){//realiza rotacao
     pNodoA *u, *v;
     contador_rotacao_dupla_direita ++;
     u = p->esq;
@@ -176,29 +181,39 @@ x, a chave a ser inserida e h a altura da �rvore*/
             if(strcmp(x.palavra, a->info.palavra) < 0){       // se a palavra for igual a outro, simplesmente incrementa a frequencia
                 contador_comparacoes ++;
                 a->esq = InsereAVL(a->esq,x,ok);
-                if (*ok){
+                if (*ok){//veridica se é necessario rotacao
                     switch (a->FB) {
                         case -1:
+                            contador_comparacoes ++;
                             a->FB = 0;
                             *ok = 0;
                             break;
                         case 0:
+                            contador_comparacoes ++;
                             a->FB = 1;
                             break;
-                        case 1: a=Caso1(a,ok);
+                        case 1:
+                            contador_comparacoes ++;
+                            a=Caso1(a,ok);
                             break;
                     }
                 }
             }else{                                              // se a palavra esta mais proxima do inicio do alfabeto, entao insere na direita
-                contador_comparacoes ++;
+                contador_comparacoes ++;//incrementa o contador de comparacoes
                 a->dir = InsereAVL(a->dir,x,ok);
                 if (*ok) {
                     switch (a->FB) {
-                        case 1: a->FB = 0; *ok = 0;
+                        case 1:
+                            contador_comparacoes ++;
+                             a->FB = 0;
+                            *ok = 0;
                             break;
-                        case 0: a->FB = -1;
+                        case 0:
+                            contador_comparacoes ++;
+                            a->FB = -1;
                             break;
                         case -1:
+                            contador_comparacoes ++;
                             a = Caso2(a,ok);
                             break;
                     }
@@ -210,7 +225,7 @@ x, a chave a ser inserida e h a altura da �rvore*/
 }
 
 
-pNodoA* Caso1 (pNodoA *a , int *ok){
+pNodoA* Caso1 (pNodoA *a , int *ok){//verifica os casos de rotacao
     pNodoA *z;
     z = a->esq;
     if (z->FB == 1)
@@ -221,7 +236,7 @@ pNodoA* Caso1 (pNodoA *a , int *ok){
     *ok = 0;
     return a;
 }
-pNodoA* Caso2 (pNodoA *a , int *ok){
+pNodoA* Caso2 (pNodoA *a , int *ok){//verifica os casos de rotacao
     pNodoA *z;
     z = a->dir;
     if (z->FB == -1)

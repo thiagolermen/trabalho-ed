@@ -1,0 +1,5718 @@
+********   ESTATISTICAS DA GERACAO DA ARVORE AVL   ***********
+Numero de nodos: 8626
+Altura: 16
+Fator de balanceamento: 0
+Tempo: 102,000000 ms
+Rotacoes: 6431
+Comparacoes: 1008890
+**********************************************************************
+F the
+2738 ocorrencias
+******************************
+F hamlet
+1 ocorrencias
+******************************
+F juliet
+1 ocorrencias
+******************************
+F italy
+8 ocorrencias
+******************************
+C 3 10000
+
+the 2738
+
+and 2497
+
+i 2375
+
+to 2032
+
+of 1780
+
+you 1490
+
+a 1451
+
+my 1349
+
+that 1307
+
+in 1253
+
+is 1024
+
+not 936
+
+me 849
+
+it 821
+
+for 775
+
+with 757
+
+he 736
+
+but 730
+
+his 726
+
+be 711
+
+have 670
+
+thou 657
+
+your 655
+
+this 612
+
+so 573
+
+thy 561
+
+him 560
+
+as 547
+
+d 538
+
+will 512
+
+her 469
+
+what 449
+
+thee 436
+
+no 435
+
+all 432
+
+do 432
+
+s 429
+
+if 401
+
+love 388
+
+by 387
+
+antony 386
+
+shall 370
+
+which 364
+
+are 361
+
+we 338
+
+good 315
+
+on 312
+
+lord 297
+
+when 297
+
+our 296
+
+caesar 290
+
+more 284
+
+from 283
+
+o 282
+
+cleopatra 279
+
+well 275
+
+was 271
+
+she 270
+
+or 264
+
+rosalind 264
+
+they 252
+
+sir 249
+
+now 244
+
+would 242
+
+am 237
+
+at 236
+
+then 235
+
+come 223
+
+enter 221
+
+than 218
+
+let 212
+
+first 210
+
+make 199
+
+there 199
+
+yet 199
+
+how 197
+
+their 196
+
+say 194
+
+hath 192
+
+know 191
+
+like 191
+
+mine 190
+
+upon 186
+
+did 184
+
+man 184
+
+one 184
+
+should 178
+
+parolles 172
+
+were 169
+
+here 168
+
+an 165
+
+most 165
+
+orlando 164
+
+them 161
+
+had 160
+
+see 160
+
+must 159
+
+can 158
+
+time 158
+
+enobarbus 154
+
+give 153
+
+go 150
+
+where 150
+
+may 149
+
+king 145
+
+ll 145
+
+us 142
+
+such 140
+
+why 139
+
+heart 137
+
+bertram 134
+
+out 134
+
+take 133
+
+scene 129
+
+celia 126
+
+helena 126
+
+art 125
+
+doth 124
+
+too 122
+
+_ 120
+
+speak 119
+
+who 119
+
+world 119
+
+lafew 118
+
+own 118
+
+great 116
+
+some 116
+
+duke 114
+
+nor 114
+
+think 111
+
+soldier 110
+
+much 106
+
+never 105
+
+charmian 104
+
+eyes 103
+
+countess 101
+
+sweet 101
+
+madam 100
+
+very 99
+
+though 98
+
+look 97
+
+tell 97
+
+these 97
+
+th 95
+
+fair 94
+
+made 94
+
+self 94
+
+t 94
+
+life 92
+
+second 92
+
+tis 92
+
+before 91
+
+true 89
+
+up 89
+
+touchstone 88
+
+cannot 86
+
+exeunt 85
+
+hand 85
+
+might 85
+
+away 84
+
+being 84
+
+better 84
+
+jaques 84
+
+thine 84
+
+clown 83
+
+ever 83
+
+day 82
+
+old 82
+
+every 81
+
+hear 81
+
+nothing 80
+
+pompey 80
+
+honour 79
+
+poor 79
+
+other 78
+
+still 77
+
+again 76
+
+death 75
+
+into 75
+
+men 75
+
+those 75
+
+both 73
+
+call 73
+
+could 73
+
+messenger 73
+
+till 73
+
+leave 72
+
+live 72
+
+part 72
+
+pray 72
+
+father 71
+
+find 71
+
+many 71
+
+therefore 71
+
+done 69
+
+night 69
+
+thus 69
+
+whose 69
+
+any 68
+
+st 68
+
+against 67
+
+brother 67
+
+dear 67
+
+fortune 66
+
+name 66
+
+nay 66
+
+since 65
+
+been 64
+
+eros 64
+
+eye 64
+
+’tis 64
+
+bear 63
+
+two 63
+
+best 62
+
+fool 62
+
+way 62
+
+beauty 61
+
+diana 61
+
+hast 61
+
+show 61
+
+youth 61
+
+young 60
+
+bring 59
+
+nature 59
+
+dead 58
+
+has 58
+
+lepidus 58
+
+ay 57
+
+die 57
+
+even 57
+
+oliver 57
+
+wife 56
+
+after 55
+
+master 55
+
+noble 55
+
+son 55
+
+agrippa 54
+
+does 54
+
+friends 54
+
+heaven 54
+
+woman 54
+
+comes 53
+
+gone 53
+
+i’ll 53
+
+menas 53
+
+none 53
+
+another 52
+
+full 52
+
+place 52
+
+put 52
+
+god 51
+
+queen 51
+
+truth 51
+
+dost 50
+
+exit 50
+
+indeed 50
+
+whom 49
+
+off 48
+
+palace 48
+
+down 47
+
+egypt 47
+
+gentle 47
+
+marry 47
+
+phebe 47
+
+things 47
+
+farewell 46
+
+friend 46
+
+house 46
+
+lie 46
+
+little 46
+
+thought 46
+
+lady 45
+
+myself 45
+
+word 45
+
+octavia 44
+
+please 44
+
+silvius 44
+
+face 43
+
+faith 43
+
+forth 43
+
+grace 43
+
+hope 43
+
+iras 43
+
+matter 43
+
+answer 42
+
+fall 42
+
+gods 42
+
+himself 42
+
+ill 42
+
+keep 42
+
+makes 42
+
+new 42
+
+power 42
+
+praise 42
+
+thoughts 42
+
+under 42
+
+without 42
+
+blood 41
+
+forest 41
+
+gentleman 41
+
+thing 41
+
+within 41
+
+alone 40
+
+court 40
+
+daughter 40
+
+end 40
+
+ring 40
+
+tongue 40
+
+war 40
+
+act 39
+
+dolabella 39
+
+found 39
+
+mistress 39
+
+once 39
+
+sword 39
+
+else 38
+
+guard 38
+
+rather 38
+
+said 38
+
+use 38
+
+widow 38
+
+fear 37
+
+pity 37
+
+sea 37
+
+stay 37
+
+together 37
+
+wilt 37
+
+women 37
+
+worth 37
+
+count 36
+
+hold 36
+
+hour 36
+
+knows 36
+
+morrow 36
+
+rome 36
+
+strange 36
+
+welcome 36
+
+captain 35
+
+far 35
+
+heard 35
+
+high 35
+
+knave 35
+
+long 35
+
+lost 35
+
+mother 35
+
+only 35
+
+senior 35
+
+set 35
+
+thank 35
+
+yours 35
+
+alexas 34
+
+aside 34
+
+cause 34
+
+corin 34
+
+ere 34
+
+lords 34
+
+mind 34
+
+pleasure 34
+
+right 34
+
+stand 34
+
+age 33
+
+frederick 33
+
+pardon 33
+
+proud 33
+
+rossillon 33
+
+saw 33
+
+seem 33
+
+sight 33
+
+sure 33
+
+three 33
+
+yourself 33
+
+audrey 32
+
+er 32
+
+false 32
+
+help 32
+
+hence 32
+
+loves 32
+
+married 32
+
+play 32
+
+room 32
+
+serve 32
+
+service 32
+
+strong 32
+
+truly 32
+
+words 32
+
+back 31
+
+fight 31
+
+follow 31
+
+head 31
+
+hither 31
+
+itself 31
+
+kind 31
+
+lose 31
+
+seen 31
+
+between 30
+
+days 30
+
+desire 30
+
+each 30
+
+further 30
+
+home 30
+
+love’s 30
+
+mark 30
+
+prove 30
+
+same 30
+
+shalt 30
+
+business 29
+
+hate 29
+
+honest 29
+
+ii 29
+
+last 29
+
+looks 29
+
+servant 29
+
+shepherd 29
+
+turn 29
+
+_exit 28
+
+born 28
+
+change 28
+
+earth 28
+
+enough 28
+
+fellow 28
+
+lack 28
+
+maecenas 28
+
+maid 28
+
+send 28
+
+sing 28
+
+state 28
+
+through 28
+
+wit 28
+
+_exeunt 27
+
+believe 27
+
+florence 27
+
+hands 27
+
+horse 27
+
+knew 27
+
+land 27
+
+lies 27
+
+past 27
+
+peace 27
+
+prithee 27
+
+rest 27
+
+shame 27
+
+unto 27
+
+virtue 27
+
+worthy 27
+
+write 27
+
+ask 26
+
+bid 26
+
+fortunes 26
+
+wars 26
+
+wish 26
+
+yes 26
+
+alexandria 25
+
+bed 25
+
+body 25
+
+boy 25
+
+given 25
+
+ho 25
+
+husband 25
+
+iii 25
+
+kiss 25
+
+something 25
+
+swear 25
+
+times 25
+
+whilst 25
+
+about 24
+
+adam 24
+
+break 24
+
+colour 24
+
+eat 24
+
+fire 24
+
+get 24
+
+hours 24
+
+le 24
+
+means 24
+
+near 24
+
+news 24
+
+oft 24
+
+present 24
+
+return 24
+
+sake 24
+
+says 24
+
+seek 24
+
+sent 24
+
+spirit 24
+
+tears 24
+
+thousand 24
+
+william 24
+
+black 23
+
+charles 23
+
+cold 23
+
+drum 23
+
+gave 23
+
+gold 23
+
+happy 23
+
+lay 23
+
+left 23
+
+monsieur 23
+
+sad 23
+
+sister 23
+
+soldiers 23
+
+th’ 23
+
+beau 22
+
+brave 22
+
+charge 22
+
+dare 22
+
+draw 22
+
+foul 22
+
+kill 22
+
+lips 22
+
+majesty 22
+
+met 22
+
+note 22
+
+others 22
+
+pretty 22
+
+reason 22
+
+report 22
+
+sleep 22
+
+spoke 22
+
+sun 22
+
+themselves 22
+
+told 22
+
+trust 22
+
+weep 22
+
+camp 21
+
+child 21
+
+fly 21
+
+france 21
+
+general 21
+
+letter 21
+
+lives 21
+
+living 21
+
+mean 21
+
+neither 21
+
+proculeius 21
+
+purpose 21
+
+rich 21
+
+sit 21
+
+song 21
+
+wear 21
+
+withal 21
+
+calls 20
+
+came 20
+
+care 20
+
+comfort 20
+
+drink 20
+
+fare 20
+
+gives 20
+
+hearts 20
+
+holy 20
+
+less 20
+
+meet 20
+
+ourselves 20
+
+parts 20
+
+patience 20
+
+save 20
+
+scarus 20
+
+soothsayer 20
+
+sorrow 20
+
+ten 20
+
+thanks 20
+
+thyreus 20
+
+verse 20
+
+ah 19
+
+almost 19
+
+behold 19
+
+canidius 19
+
+cheek 19
+
+command 19
+
+company 19
+
+ear 19
+
+grow 19
+
+iv 19
+
+joy 19
+
+knowledge 19
+
+lov 19
+
+mardian 19
+
+music 19
+
+red 19
+
+remember 19
+
+virginity 19
+
+wherein 19
+
+appear 18
+
+beauty’s 18
+
+canst 18
+
+common 18
+
+faults 18
+
+favour 18
+
+fulvia 18
+
+hang 18
+
+honesty 18
+
+known 18
+
+lover 18
+
+loving 18
+
+making 18
+
+needs 18
+
+run 18
+
+side 18
+
+sin 18
+
+that’s 18
+
+there’s 18
+
+third 18
+
+while 18
+
+wise 18
+
+worse 18
+
+bad 17
+
+beseech 17
+
+boys 17
+
+country 17
+
+cut 17
+
+deeds 17
+
+didst 17
+
+flourish 17
+
+foot 17
+
+free 17
+
+goes 17
+
+greatest 17
+
+hard 17
+
+haste 17
+
+having 17
+
+heavy 17
+
+he’s 17
+
+kept 17
+
+lead 17
+
+longer 17
+
+loss 17
+
+mayst 17
+
+muse 17
+
+need 17
+
+read 17
+
+soul 17
+
+sport 17
+
+steal 17
+
+strength 17
+
+v 17
+
+woo 17
+
+work 17
+
+wrong 17
+
+amiens 16
+
+army 16
+
+begin 16
+
+breath 16
+
+bright 16
+
+content 16
+
+duty 16
+
+fault 16
+
+folly 16
+
+going 16
+
+gracious 16
+
+greater 16
+
+grief 16
+
+half 16
+
+i’ 16
+
+just 16
+
+kings 16
+
+late 16
+
+letters 16
+
+light 16
+
+mad 16
+
+marriage 16
+
+pass 16
+
+passion 16
+
+pride 16
+
+promise 16
+
+question 16
+
+royal 16
+
+sense 16
+
+shouldst 16
+
+sovereign 16
+
+time’s 16
+
+treasure 16
+
+try 16
+
+unless 16
+
+whole 16
+
+woe 16
+
+— 16
+
+adieu 15
+
+already 15
+
+arm 15
+
+attendants 15
+
+behind 15
+
+buy 15
+
+case 15
+
+certain 15
+
+coming 15
+
+crown 15
+
+dies 15
+
+flesh 15
+
+food 15
+
+helen 15
+
+king’s 15
+
+laugh 15
+
+lest 15
+
+lordship 15
+
+manners 15
+
+melancholy 15
+
+merry 15
+
+next 15
+
+over 15
+
+quick 15
+
+re 15
+
+respect 15
+
+stands 15
+
+taken 15
+
+tender 15
+
+took 15
+
+water 15
+
+what’s 15
+
+wherefore 15
+
+whether 15
+
+whither 15
+
+wind 15
+
+wouldst 15
+
+along 14
+
+although 14
+
+attend 14
+
+beard 14
+
+becomes 14
+
+bound 14
+
+brought 14
+
+confess 14
+
+countess’s 14
+
+course 14
+
+cousin 14
+
+disgrace 14
+
+excellent 14
+
+feed 14
+
+grant 14
+
+highness 14
+
+judgment 14
+
+lend 14
+
+measure 14
+
+monument 14
+
+mortal 14
+
+mouth 14
+
+ne 14
+
+oaths 14
+
+often 14
+
+point 14
+
+shake 14
+
+sick 14
+
+skill 14
+
+slave 14
+
+sound 14
+
+straight 14
+
+taught 14
+
+touch 14
+
+ventidius 14
+
+view 14
+
+watch 14
+
+winter 14
+
+wound 14
+
+writ 14
+
+air 13
+
+because 13
+
+betray 13
+
+blessed 13
+
+brain 13
+
+cast 13
+
+courtier 13
+
+cure 13
+
+dearest 13
+
+dearly 13
+
+deep 13
+
+deny 13
+
+dispatch 13
+
+dull 13
+
+either 13
+
+enemy 13
+
+excuse 13
+
+florentine 13
+
+force 13
+
+gift 13
+
+glass 13
+
+got 13
+
+green 13
+
+health 13
+
+herself 13
+
+honourable 13
+
+learn 13
+
+leaves 13
+
+mars 13
+
+office 13
+
+paris 13
+
+people 13
+
+pluck 13
+
+quickly 13
+
+rose 13
+
+sirrah 13
+
+soon 13
+
+store 13
+
+talk 13
+
+twenty 13
+
+virtuous 13
+
+wine 13
+
+year 13
+
+alas 12
+
+argument 12
+
+become 12
+
+blame 12
+
+breast 12
+
+brings 12
+
+brow 12
+
+buried 12
+
+chide 12
+
+cruel 12
+
+deed 12
+
+demand 12
+
+died 12
+
+ears 12
+
+egyptian 12
+
+fill 12
+
+five 12
+
+fools 12
+
+four 12
+
+french 12
+
+gentlemen 12
+
+hers 12
+
+holds 12
+
+invention 12
+
+jove 12
+
+mend 12
+
+mock 12
+
+n 12
+
+pen 12
+
+public 12
+
+scorn 12
+
+seems 12
+
+she’s 12
+
+shows 12
+
+simple 12
+
+single 12
+
+spirits 12
+
+stars 12
+
+suffer 12
+
+suit 12
+
+thence 12
+
+understand 12
+
+want 12
+
+ways 12
+
+wide 12
+
+win 12
+
+ye 12
+
+years 12
+
+above 11
+
+action 11
+
+approach 11
+
+beat 11
+
+bless 11
+
+bloody 11
+
+brief 11
+
+danger 11
+
+desert 11
+
+devil 11
+
+duke’s 11
+
+euphronius 11
+
+fancy 11
+
+fashion 11
+
+fell 11
+
+field 11
+
+fine 11
+
+forbear 11
+
+form 11
+
+glory 11
+
+grave 11
+
+hadst 11
+
+keeps 11
+
+knowing 11
+
+laid 11
+
+low 11
+
+memory 11
+
+moon 11
+
+morning 11
+
+motion 11
+
+move 11
+
+ne’er 11
+
+offence 11
+
+offer 11
+
+o’er 11
+
+page 11
+
+pains 11
+
+pay 11
+
+rank 11
+
+receive 11
+
+remain 11
+
+remembrance 11
+
+rosalinde 11
+
+seleucus 11
+
+short 11
+
+speech 11
+
+speed 11
+
+spring 11
+
+stood 11
+
+strike 11
+
+summer’s 11
+
+swift 11
+
+sworn 11
+
+throw 11
+
+thyself 11
+
+tongues 11
+
+tree 11
+
+uncle 11
+
+wealth 11
+
+weary 11
+
+we’ll 11
+
+white 11
+
+wisdom 11
+
+wishes 11
+
+witness 11
+
+won 11
+
+wonder 11
+
+worm 11
+
+worst 11
+
+yield 11
+
+’ 11
+
+_aside 10
+
+_to 10
+
+base 10
+
+beauteous 10
+
+beg 10
+
+besides 10
+
+bitter 10
+
+blow 10
+
+bosom 10
+
+burn 10
+
+catch 10
+
+choose 10
+
+city 10
+
+clock 10
+
+coz 10
+
+creature 10
+
+cry 10
+
+delight 10
+
+dercetas 10
+
+desires 10
+
+diomedes 10
+
+drawn 10
+
+dwell 10
+
+emperor 10
+
+en 10
+
+ends 10
+
+entreat 10
+
+fears 10
+
+feast 10
+
+flies 10
+
+former 10
+
+fresh 10
+
+gain 10
+
+gainst 10
+
+graces 10
+
+ha 10
+
+hair 10
+
+hell 10
+
+in’t 10
+
+is’t 10
+
+labour 10
+
+ladies 10
+
+lawful 10
+
+least 10
+
+led 10
+
+liege 10
+
+mercy 10
+
+merit 10
+
+methinks 10
+
+neck 10
+
+o’ 10
+
+paper 10
+
+prayers 10
+
+precious 10
+
+presently 10
+
+proceed 10
+
+quite 10
+
+quoth 10
+
+rare 10
+
+roman 10
+
+rowland 10
+
+seeming 10
+
+shadow 10
+
+soft 10
+
+sometime 10
+
+sooner 10
+
+spend 10
+
+spent 10
+
+story 10
+
+therein 10
+
+thither 10
+
+tonight 10
+
+tragedy 10
+
+travel 10
+
+trees 10
+
+triumph 10
+
+valiant 10
+
+vile 10
+
+waste 10
+
+weak 10
+
+wert 10
+
+absent 9
+
+aid 9
+
+anon 9
+
+bears 9
+
+beggar 9
+
+beloved 9
+
+brothers 9
+
+c 9
+
+cheeks 9
+
+commend 9
+
+conquer 9
+
+counterfeit 9
+
+dark 9
+
+de 9
+
+decay 9
+
+displeasure 9
+
+disposition 9
+
+doom 9
+
+dumb 9
+
+ephesus 9
+
+eternal 9
+
+fame 9
+
+fast 9
+
+feel 9
+
+fellows 9
+
+fetch 9
+
+fit 9
+
+flowers 9
+
+fortune’s 9
+
+fought 9
+
+ganymede 9
+
+gentlewoman 9
+
+glad 9
+
+goodness 9
+
+grows 9
+
+guess 9
+
+haply 9
+
+hark 9
+
+hearing 9
+
+held 9
+
+hey 9
+
+hide 9
+
+horns 9
+
+humble 9
+
+hurt 9
+
+jewel 9
+
+join 9
+
+kingdoms 9
+
+leisure 9
+
+loud 9
+
+loved 9
+
+lust 9
+
+maiden 9
+
+manner 9
+
+motley 9
+
+natural 9
+
+nature’s 9
+
+noise 9
+
+outward 9
+
+paid 9
+
+pale 9
+
+person 9
+
+plain 9
+
+poison 9
+
+rage 9
+
+rain 9
+
+reasons 9
+
+remedy 9
+
+reputation 9
+
+rhyme 9
+
+shape 9
+
+shown 9
+
+smell 9
+
+space 9
+
+speaks 9
+
+star 9
+
+steward 9
+
+success 9
+
+summer 9
+
+title 9
+
+touches 9
+
+to’t 9
+
+train 9
+
+trumpets 9
+
+verses 9
+
+vows 9
+
+warrant 9
+
+wast 9
+
+weight 9
+
+whence 9
+
+wretched 9
+
+younger 9
+
+absence 8
+
+acquainted 8
+
+advantage 8
+
+affairs 8
+
+alack 8
+
+anything 8
+
+apace 8
+
+attending 8
+
+beaten 8
+
+begins 8
+
+betwixt 8
+
+birth 8
+
+blind 8
+
+blush 8
+
+boast 8
+
+book 8
+
+broken 8
+
+burden 8
+
+carry 8
+
+cat 8
+
+chance 8
+
+cheer 8
+
+consent 8
+
+contents 8
+
+corrupt 8
+
+counsel 8
+
+cover 8
+
+coward 8
+
+credit 8
+
+cunning 8
+
+denied 8
+
+despite 8
+
+dog 8
+
+drown 8
+
+dying 8
+
+easy 8
+
+empire 8
+
+endure 8
+
+equal 8
+
+experience 8
+
+fairer 8
+
+father’s 8
+
+feeding 8
+
+finger 8
+
+flower 8
+
+foolish 8
+
+forbid 8
+
+forget 8
+
+greatness 8
+
+grown 8
+
+heart’s 8
+
+horn 8
+
+hundred 8
+
+hymen 8
+
+idle 8
+
+increase 8
+
+intents 8
+
+isis 8
+
+italy 8
+
+justice 8
+
+kisses 8
+
+kneel 8
+
+know’st 8
+
+large 8
+
+law 8
+
+learned 8
+
+lines 8
+
+liv 8
+
+lovely 8
+
+lovers 8
+
+main 8
+
+man’s 8
+
+martext 8
+
+match 8
+
+mere 8
+
+minute 8
+
+nose 8
+
+obey 8
+
+officers 8
+
+ours 8
+
+owe 8
+
+pain 8
+
+painted 8
+
+particular 8
+
+pays 8
+
+perceive 8
+
+pilgrim 8
+
+pleas 8
+
+presence 8
+
+prince 8
+
+proper 8
+
+quarrel 8
+
+ransom 8
+
+repent 8
+
+roses 8
+
+round 8
+
+rude 8
+
+saucy 8
+
+scarce 8
+
+seeing 8
+
+serv 8
+
+sharp 8
+
+silius 8
+
+six 8
+
+sorry 8
+
+speaking 8
+
+spoken 8
+
+stage 8
+
+stain 8
+
+stop 8
+
+strive 8
+
+stronger 8
+
+sudden 8
+
+sum 8
+
+sweetest 8
+
+sweets 8
+
+takes 8
+
+teeth 8
+
+thief 8
+
+thinks 8
+
+thrive 8
+
+tidings 8
+
+tomb 8
+
+toward 8
+
+troth 8
+
+twas 8
+
+undone 8
+
+valour 8
+
+villain 8
+
+virgin 8
+
+voice 8
+
+vow 8
+
+went 8
+
+woman’s 8
+
+works 8
+
+wrestler 8
+
+wrestling 8
+
+’t 8
+
+_reads 7
+
+able 7
+
+acquaintance 7
+
+affection 7
+
+aliena 7
+
+among 7
+
+angel 7
+
+anger 7
+
+antique 7
+
+arden 7
+
+authority 7
+
+awhile 7
+
+banish 7
+
+banished 7
+
+bare 7
+
+battle 7
+
+bestow 7
+
+bold 7
+
+borne 7
+
+bounty 7
+
+breaking 7
+
+bred 7
+
+check 7
+
+children 7
+
+choice 7
+
+complexion 7
+
+confound 7
+
+cost 7
+
+countenance 7
+
+cries 7
+
+cup 7
+
+date 7
+
+deer 7
+
+desperate 7
+
+doing 7
+
+dream 7
+
+drums 7
+
+due 7
+
+edge 7
+
+effect 7
+
+egeon 7
+
+entertainment 7
+
+errors 7
+
+fail 7
+
+fairest 7
+
+farther 7
+
+fits 7
+
+fled 7
+
+followed 7
+
+fond 7
+
+fore 7
+
+forgot 7
+
+fourth 7
+
+frame 7
+
+gallant 7
+
+gallus 7
+
+goddess 7
+
+golden 7
+
+goodly 7
+
+grew 7
+
+groan 7
+
+ground 7
+
+heat 7
+
+heavenly 7
+
+heaven’s 7
+
+height 7
+
+heir 7
+
+henry 7
+
+here’s 7
+
+hose 7
+
+hot 7
+
+humour 7
+
+infinite 7
+
+instant 7
+
+issue 7
+
+kindly 7
+
+knife 7
+
+lean 7
+
+looking 7
+
+lov’d 7
+
+lov’st 7
+
+mariana 7
+
+meaning 7
+
+merely 7
+
+messengers 7
+
+native 7
+
+naught 7
+
+nought 7
+
+number 7
+
+oath 7
+
+open 7
+
+pair 7
+
+praises 7
+
+promises 7
+
+pure 7
+
+rail 7
+
+reading 7
+
+removed 7
+
+reports 7
+
+rise 7
+
+sat 7
+
+seal 7
+
+several 7
+
+shakespeare 7
+
+shallow 7
+
+sides 7
+
+slow 7
+
+sold 7
+
+solemn 7
+
+sometimes 7
+
+stone 7
+
+strikes 7
+
+style 7
+
+subject 7
+
+tall 7
+
+taste 7
+
+terms 7
+
+thinking 7
+
+thrice 7
+
+twain 7
+
+twice 7
+
+unknown 7
+
+unworthy 7
+
+wed 7
+
+widow’s 7
+
+wild 7
+
+wing 7
+
+wives 7
+
+wrinkles 7
+
+yea 7
+
+yonder 7
+
+’gainst 7
+
+’twas 7
+
+” 7
+
+absolute 6
+
+add 6
+
+alike 6
+
+angry 6
+
+apart 6
+
+arms 6
+
+assure 6
+
+athens 6
+
+attendant 6
+
+audience 6
+
+band 6
+
+barren 6
+
+beast 6
+
+blest 6
+
+bow 6
+
+bravely 6
+
+breathe 6
+
+breed 6
+
+broke 6
+
+cap 6
+
+cargo 6
+
+carries 6
+
+centurion 6
+
+chief 6
+
+clear 6
+
+companion 6
+
+compare 6
+
+constant 6
+
+contented 6
+
+courage 6
+
+cross 6
+
+crowned 6
+
+damn 6
+
+defence 6
+
+dennis 6
+
+deserv 6
+
+deserve 6
+
+despair 6
+
+devise 6
+
+diest 6
+
+difference 6
+
+direct 6
+
+disdain 6
+
+dissuade 6
+
+double 6
+
+drunk 6
+
+dust 6
+
+e 6
+
+encounter 6
+
+epilogue 6
+
+esteem 6
+
+eunuch 6
+
+evil 6
+
+express 6
+
+fain 6
+
+feet 6
+
+fie 6
+
+finds 6
+
+flatter 6
+
+forgive 6
+
+forsworn 6
+
+forward 6
+
+gifts 6
+
+gilded 6
+
+giving 6
+
+greet 6
+
+gross 6
+
+growth 6
+
+guardsman 6
+
+guilty 6
+
+hail 6
+
+happiness 6
+
+heels 6
+
+hereafter 6
+
+higher 6
+
+horses 6
+
+humbly 6
+
+hush 6
+
+idleness 6
+
+inform 6
+
+instance 6
+
+i’d 6
+
+kissing 6
+
+lands 6
+
+language 6
+
+lays 6
+
+liberty 6
+
+line 6
+
+lip 6
+
+list 6
+
+lived 6
+
+lo 6
+
+lusty 6
+
+mar 6
+
+men’s 6
+
+merchant 6
+
+midnight 6
+
+mightily 6
+
+modern 6
+
+money 6
+
+monstrous 6
+
+morn 6
+
+mother’s 6
+
+neighbour 6
+
+nobler 6
+
+nurse 6
+
+ocean 6
+
+offend 6
+
+officer 6
+
+pace 6
+
+painting 6
+
+parted 6
+
+parthia 6
+
+partly 6
+
+patient 6
+
+perfect 6
+
+perform 6
+
+peril 6
+
+petty 6
+
+physic 6
+
+plague 6
+
+plead 6
+
+policy 6
+
+possible 6
+
+pour 6
+
+prepar 6
+
+priest 6
+
+prime 6
+
+private 6
+
+profit 6
+
+purposes 6
+
+quality 6
+
+quit 6
+
+record 6
+
+religious 6
+
+remains 6
+
+render 6
+
+revolt 6
+
+ripe 6
+
+rotten 6
+
+sails 6
+
+saint 6
+
+scope 6
+
+seldom 6
+
+servants 6
+
+shade 6
+
+shore 6
+
+sickness 6
+
+sits 6
+
+small 6
+
+spake 6
+
+stomach 6
+
+stream 6
+
+syria 6
+
+ta 6
+
+taking 6
+
+tend 6
+
+thrown 6
+
+tie 6
+
+tied 6
+
+token 6
+
+towards 6
+
+tune 6
+
+turns 6
+
+twill 6
+
+tyrant 6
+
+until 6
+
+vassal 6
+
+vi 6
+
+vii 6
+
+virtues 6
+
+wait 6
+
+wash 6
+
+weigh 6
+
+whiles 6
+
+whip 6
+
+whipt 6
+
+wiser 6
+
+wonderful 6
+
+wore 6
+
+world’s 6
+
+worn 6
+
+worship 6
+
+wounded 6
+
+wrestle 6
+
+writes 6
+
+abundance 5
+
+abuse 5
+
+accuse 5
+
+acquaint 5
+
+acts 5
+
+afar 5
+
+alarum 5
+
+alive 5
+
+all’s 5
+
+amen 5
+
+amiss 5
+
+amorous 5
+
+apparel 5
+
+appears 5
+
+appetite 5
+
+approaches 5
+
+april 5
+
+ass 5
+
+attempt 5
+
+avoid 5
+
+bath 5
+
+beest 5
+
+behalf 5
+
+below 5
+
+bidding 5
+
+bids 5
+
+bind 5
+
+blessing 5
+
+blown 5
+
+bond 5
+
+bought 5
+
+brand 5
+
+breeding 5
+
+buds 5
+
+canker 5
+
+captains 5
+
+chamber 5
+
+character 5
+
+chase 5
+
+close 5
+
+cloud 5
+
+clouds 5
+
+conceit 5
+
+conquest 5
+
+contempt 5
+
+copy 5
+
+courteous 5
+
+creatures 5
+
+cried 5
+
+crowns 5
+
+cupid 5
+
+deal 5
+
+death’s 5
+
+deceived 5
+
+delay 5
+
+delights 5
+
+deserves 5
+
+detain 5
+
+dial 5
+
+disaster 5
+
+divide 5
+
+doubt 5
+
+drop 5
+
+drops 5
+
+durst 5
+
+east 5
+
+ebook 5
+
+elements 5
+
+employ 5
+
+ended 5
+
+enemies 5
+
+enforce 5
+
+estate 5
+
+everything 5
+
+evils 5
+
+faces 5
+
+falls 5
+
+felt 5
+
+fifty 5
+
+flame 5
+
+foes 5
+
+forsake 5
+
+for’t 5
+
+freely 5
+
+friendship 5
+
+frown 5
+
+fruit 5
+
+furnish 5
+
+garments 5
+
+griefs 5
+
+hangs 5
+
+hated 5
+
+heed 5
+
+heigh 5
+
+henceforth 5
+
+herod 5
+
+honour’s 5
+
+hopes 5
+
+hue 5
+
+huge 5
+
+ignorance 5
+
+image 5
+
+intelligence 5
+
+inward 5
+
+judgments 5
+
+juno 5
+
+kingdom 5
+
+knight 5
+
+lame 5
+
+lascivious 5
+
+learning 5
+
+legions 5
+
+length 5
+
+lent 5
+
+level 5
+
+lieutenant 5
+
+liking 5
+
+limbs 5
+
+lion 5
+
+losing 5
+
+madness 5
+
+maids 5
+
+majesty’s 5
+
+marcus 5
+
+market 5
+
+meant 5
+
+meantime 5
+
+meat 5
+
+medicine 5
+
+meeting 5
+
+melt 5
+
+menecrates 5
+
+minutes 5
+
+mirth 5
+
+mistress’ 5
+
+moan 5
+
+modest 5
+
+modesty 5
+
+navy 5
+
+nile 5
+
+nilus 5
+
+nine 5
+
+nobly 5
+
+numbers 5
+
+oblivion 5
+
+observance 5
+
+occasion 5
+
+offended 5
+
+order 5
+
+ornament 5
+
+others’ 5
+
+owes 5
+
+pasture 5
+
+piece 5
+
+pine 5
+
+pitied 5
+
+plays 5
+
+points 5
+
+politic 5
+
+poverty 5
+
+praising 5
+
+prayer 5
+
+prey 5
+
+prize 5
+
+project 5
+
+proof 5
+
+protest 5
+
+provide 5
+
+pr’ythee 5
+
+punish 5
+
+qualities 5
+
+questions 5
+
+rate 5
+
+ready 5
+
+renown 5
+
+reported 5
+
+requires 5
+
+ride 5
+
+rightly 5
+
+rough 5
+
+runs 5
+
+sacred 5
+
+safety 5
+
+sans 5
+
+saying 5
+
+scar 5
+
+scythe 5
+
+search 5
+
+seeks 5
+
+serpent 5
+
+seven 5
+
+seventh 5
+
+sex 5
+
+shine 5
+
+ships 5
+
+shut 5
+
+sigh 5
+
+sighs 5
+
+silence 5
+
+simply 5
+
+sinful 5
+
+sings 5
+
+sixth 5
+
+sky 5
+
+slain 5
+
+slight 5
+
+soldiership 5
+
+sons 5
+
+sorrows 5
+
+spare 5
+
+spite 5
+
+square 5
+
+stays 5
+
+steel 5
+
+stir 5
+
+stol’n 5
+
+street 5
+
+stroke 5
+
+substance 5
+
+suddenly 5
+
+survey 5
+
+swearing 5
+
+swears 5
+
+sweat 5
+
+taurus 5
+
+teach 5
+
+tells 5
+
+thankful 5
+
+thick 5
+
+thorns 5
+
+threw 5
+
+toil 5
+
+top 5
+
+torture 5
+
+traitors 5
+
+trial 5
+
+tricks 5
+
+troubled 5
+
+undertake 5
+
+urge 5
+
+vulgar 5
+
+walk 5
+
+walls 5
+
+wanting 5
+
+wears 5
+
+weeds 5
+
+whereon 5
+
+wicked 5
+
+window 5
+
+wits 5
+
+wood 5
+
+wooing 5
+
+worms 5
+
+wounds 5
+
+written 5
+
+y 5
+
+youthful 5
+
+’twere 5
+
+abide 4
+
+abus 4
+
+account 4
+
+acknowledge 4
+
+actor 4
+
+addition 4
+
+admitted 4
+
+advice 4
+
+advise 4
+
+affections 4
+
+aim 4
+
+allow 4
+
+altogether 4
+
+always 4
+
+ambition 4
+
+amity 4
+
+anew 4
+
+answers 4
+
+antipholus 4
+
+antiquity 4
+
+antonius 4
+
+approve 4
+
+armour 4
+
+assured 4
+
+babe 4
+
+backward 4
+
+bade 4
+
+bail 4
+
+banquet 4
+
+barks 4
+
+basest 4
+
+bastard 4
+
+bay 4
+
+beards 4
+
+beauties 4
+
+bell 4
+
+belong 4
+
+bent 4
+
+bequeathed 4
+
+beside 4
+
+big 4
+
+bird 4
+
+birds 4
+
+bitterness 4
+
+blows 4
+
+body’s 4
+
+bones 4
+
+boot 4
+
+bottom 4
+
+boughs 4
+
+brains 4
+
+brass 4
+
+broad 4
+
+brook 4
+
+brows 4
+
+brutus 4
+
+bush 4
+
+buttock 4
+
+called 4
+
+cares 4
+
+casement 4
+
+caught 4
+
+ceremony 4
+
+charter 4
+
+chaste 4
+
+chiding 4
+
+church 4
+
+churlish 4
+
+civil 4
+
+claims 4
+
+comforts 4
+
+commanded 4
+
+commands 4
+
+commit 4
+
+complete 4
+
+composition 4
+
+concern 4
+
+condemn 4
+
+condition 4
+
+conqueror 4
+
+consider 4
+
+constancy 4
+
+contend 4
+
+cool 4
+
+couldst 4
+
+council 4
+
+count’s 4
+
+courtesy 4
+
+crime 4
+
+crow 4
+
+cuckold 4
+
+dance 4
+
+dearer 4
+
+defeat 4
+
+degrees 4
+
+demetrius 4
+
+depart 4
+
+depends 4
+
+derive 4
+
+description 4
+
+deserv’d 4
+
+device 4
+
+dignity 4
+
+dinner 4
+
+distance 4
+
+distinction 4
+
+divine 4
+
+door 4
+
+doors 4
+
+doting 4
+
+doublet 4
+
+dramatis 4
+
+dreams 4
+
+dress 4
+
+dry 4
+
+ducdame 4
+
+dumaine 4
+
+earnest 4
+
+earthly 4
+
+effected 4
+
+elder 4
+
+em 4
+
+empty 4
+
+english 4
+
+enjoy 4
+
+entertain 4
+
+entreated 4
+
+envy 4
+
+especially 4
+
+eternity 4
+
+ev 4
+
+evermore 4
+
+example 4
+
+exile 4
+
+faithful 4
+
+fate 4
+
+fearful 4
+
+fearing 4
+
+feasts 4
+
+fee 4
+
+female 4
+
+fiery 4
+
+figure 4
+
+firm 4
+
+flattery 4
+
+fleet 4
+
+flight 4
+
+flock 4
+
+flow 4
+
+followers 4
+
+forehead 4
+
+forfeit 4
+
+forgotten 4
+
+front 4
+
+fury 4
+
+gates 4
+
+gaze 4
+
+gentleness 4
+
+gently 4
+
+getting 4
+
+girls 4
+
+grand 4
+
+grapes 4
+
+greeting 4
+
+guest 4
+
+hardly 4
+
+harm 4
+
+harsh 4
+
+heads 4
+
+healthful 4
+
+heartily 4
+
+hercules 4
+
+herd 4
+
+hie 4
+
+hill 4
+
+hoo 4
+
+host 4
+
+howe’er 4
+
+hungry 4
+
+ills 4
+
+immortal 4
+
+impatience 4
+
+import 4
+
+impossible 4
+
+injury 4
+
+ink 4
+
+innocent 4
+
+instrument 4
+
+interpreter 4
+
+in’s 4
+
+jewels 4
+
+jewry 4
+
+journey 4
+
+julius 4
+
+jupiter 4
+
+keen 4
+
+keeping 4
+
+kindness 4
+
+knit 4
+
+knot 4
+
+lacks 4
+
+lament 4
+
+lately 4
+
+leads 4
+
+leap 4
+
+lease 4
+
+leg 4
+
+lends 4
+
+liar 4
+
+lief 4
+
+lioness 4
+
+luck 4
+
+malice 4
+
+march 4
+
+marks 4
+
+marseilles 4
+
+marvel 4
+
+masters 4
+
+measures 4
+
+mightst 4
+
+mighty 4
+
+minds 4
+
+mingle 4
+
+minister 4
+
+misery 4
+
+mistake 4
+
+moment 4
+
+mov 4
+
+necessity 4
+
+neglect 4
+
+nights 4
+
+nimble 4
+
+noblest 4
+
+nonino 4
+
+nut 4
+
+observe 4
+
+octavius 4
+
+odds 4
+
+offers 4
+
+ones 4
+
+opinion 4
+
+outlive 4
+
+palm 4
+
+party 4
+
+patch 4
+
+peep 4
+
+perchance 4
+
+perfection 4
+
+perforce 4
+
+perpetual 4
+
+philo 4
+
+phoenix 4
+
+pick 4
+
+pilgrimage 4
+
+pinch 4
+
+places 4
+
+pleases 4
+
+plot 4
+
+poet 4
+
+pomp 4
+
+pompeius 4
+
+port 4
+
+possess 4
+
+possession 4
+
+powerful 4
+
+powers 4
+
+praised 4
+
+preparation 4
+
+preserve 4
+
+prevented 4
+
+price 4
+
+princes 4
+
+princess 4
+
+probable 4
+
+proclaim 4
+
+property 4
+
+purse 4
+
+pursuit 4
+
+recompense 4
+
+recovered 4
+
+rehearse 4
+
+remembered 4
+
+remove 4
+
+repair 4
+
+request 4
+
+revenge 4
+
+root 4
+
+rot 4
+
+rush 4
+
+satisfy 4
+
+savage 4
+
+scarf 4
+
+school 4
+
+score 4
+
+seat 4
+
+seeking 4
+
+seest 4
+
+seize 4
+
+sends 4
+
+sentence 4
+
+serves 4
+
+sets 4
+
+sextus 4
+
+shadows 4
+
+share 4
+
+sheep 4
+
+shines 4
+
+shook 4
+
+shrewd 4
+
+sicily 4
+
+signs 4
+
+size 4
+
+slander 4
+
+sleeping 4
+
+sleeps 4
+
+smile 4
+
+smoke 4
+
+snail 4
+
+society 4
+
+sought 4
+
+souls 4
+
+special 4
+
+sphere 4
+
+start 4
+
+stern 4
+
+stocks 4
+
+streets 4
+
+stretch 4
+
+strife 4
+
+strongly 4
+
+struck 4
+
+study 4
+
+suits 4
+
+sullen 4
+
+supposed 4
+
+surety 4
+
+suspect 4
+
+sway 4
+
+sweetly 4
+
+swords 4
+
+swore 4
+
+syracuse 4
+
+table 4
+
+tale 4
+
+tax 4
+
+tedious 4
+
+thereby 4
+
+thievish 4
+
+throat 4
+
+throne 4
+
+tired 4
+
+tomorrow 4
+
+traitor 4
+
+traveller 4
+
+trick 4
+
+triumphant 4
+
+troops 4
+
+unhappy 4
+
+unkind 4
+
+unkindness 4
+
+unseen 4
+
+unused 4
+
+used 4
+
+uses 4
+
+utter 4
+
+vantage 4
+
+varrius 4
+
+velvet 4
+
+venus 4
+
+vessel 4
+
+warlike 4
+
+weakness 4
+
+wedding 4
+
+weed 4
+
+weeping 4
+
+west 4
+
+wet 4
+
+whate’er 4
+
+whereof 4
+
+whoever 4
+
+willing 4
+
+windows 4
+
+winds 4
+
+winter’s 4
+
+wisely 4
+
+womb 4
+
+wondrous 4
+
+yare 4
+
+yielded 4
+
+youngest 4
+
+yourselves 4
+
+you’ll 4
+
+’em 4
+
+_flourish 3
+
+abandon 3
+
+abhor 3
+
+abuses 3
+
+accidents 3
+
+according 3
+
+accordingly 3
+
+actium 3
+
+admir 3
+
+admit 3
+
+adore 3
+
+adverse 3
+
+afraid 3
+
+alias 3
+
+aloft 3
+
+ambassador 3
+
+ambitious 3
+
+ambles 3
+
+ambush 3
+
+amongst 3
+
+ancestors 3
+
+another’s 3
+
+approof 3
+
+arise 3
+
+array 3
+
+asleep 3
+
+asp 3
+
+aspect 3
+
+aspic 3
+
+audit 3
+
+aught 3
+
+autumn 3
+
+awake 3
+
+babes 3
+
+ballad 3
+
+bareness 3
+
+bark 3
+
+bars 3
+
+baser 3
+
+basket 3
+
+bearing 3
+
+beasts 3
+
+beck 3
+
+began 3
+
+beginning 3
+
+begot 3
+
+beguil 3
+
+beguile 3
+
+behaviour 3
+
+belike 3
+
+belongs 3
+
+bending 3
+
+beneath 3
+
+benefit 3
+
+benefits 3
+
+besiege 3
+
+beware 3
+
+beyond 3
+
+blot 3
+
+blunt 3
+
+blushes 3
+
+boldness 3
+
+bondage 3
+
+bonds 3
+
+books 3
+
+bore 3
+
+borrow 3
+
+bounteous 3
+
+bravest 3
+
+breaks 3
+
+breaths 3
+
+breeds 3
+
+brown 3
+
+built 3
+
+bury 3
+
+call’d 3
+
+camps 3
+
+capable 3
+
+captive 3
+
+careful 3
+
+careless 3
+
+carried 3
+
+cave 3
+
+cease 3
+
+certainly 3
+
+certainty 3
+
+chain 3
+
+challenger 3
+
+charg 3
+
+chest 3
+
+circle 3
+
+citizens 3
+
+clean 3
+
+clothes 3
+
+coat 3
+
+commendations 3
+
+commission 3
+
+commits 3
+
+complain 3
+
+concord 3
+
+conditions 3
+
+conduct 3
+
+confessed 3
+
+confined 3
+
+confounds 3
+
+conscience 3
+
+constraint 3
+
+contracted 3
+
+contrary 3
+
+control 3
+
+converted 3
+
+convey 3
+
+cote 3
+
+couch 3
+
+counterfeited 3
+
+countryman 3
+
+courtesies 3
+
+crave 3
+
+created 3
+
+creation 3
+
+crooked 3
+
+crying 3
+
+cured 3
+
+curious 3
+
+daily 3
+
+damnable 3
+
+dancing 3
+
+dangerous 3
+
+dar 3
+
+dares 3
+
+darkness 3
+
+deadly 3
+
+deaths 3
+
+debate 3
+
+debtor 3
+
+decease 3
+
+deceiv 3
+
+deceive 3
+
+decrees 3
+
+defect 3
+
+delicate 3
+
+deliver 3
+
+delivers 3
+
+departure 3
+
+deserts 3
+
+deserved 3
+
+deserving 3
+
+desired 3
+
+despise 3
+
+despised 3
+
+despiteful 3
+
+destiny 3
+
+determine 3
+
+devils 3
+
+ding 3
+
+diomed 3
+
+discord 3
+
+discover 3
+
+disease 3
+
+disguise 3
+
+dish 3
+
+dishonour 3
+
+dispos 3
+
+distilled 3
+
+distress 3
+
+divers 3
+
+divided 3
+
+domitius 3
+
+dote 3
+
+dower 3
+
+drew 3
+
+drinking 3
+
+drive 3
+
+drives 3
+
+dropp 3
+
+early 3
+
+earn 3
+
+ease 3
+
+easily 3
+
+eats 3
+
+education 3
+
+effects 3
+
+eight 3
+
+eldest 3
+
+elsewhere 3
+
+embrace 3
+
+empress 3
+
+enterprise 3
+
+envious 3
+
+err 3
+
+ertake 3
+
+esteemed 3
+
+events 3
+
+ewes 3
+
+expense 3
+
+exploit 3
+
+expressed 3
+
+extend 3
+
+extended 3
+
+extremity 3
+
+eyelids 3
+
+eye’s 3
+
+e’en 3
+
+e’er 3
+
+fade 3
+
+faint 3
+
+fairly 3
+
+faithfully 3
+
+falling 3
+
+falsehood 3
+
+familiar 3
+
+famine 3
+
+famous 3
+
+fantastical 3
+
+farthest 3
+
+faster 3
+
+fat 3
+
+fathers 3
+
+feature 3
+
+fed 3
+
+feeds 3
+
+fever 3
+
+fierce 3
+
+figs 3
+
+file 3
+
+files 3
+
+filled 3
+
+finding 3
+
+fingers 3
+
+finish 3
+
+fish 3
+
+fixed 3
+
+fleeting 3
+
+foil 3
+
+follows 3
+
+foolery 3
+
+foresters 3
+
+forsooth 3
+
+forswear 3
+
+fox 3
+
+frailties 3
+
+frank 3
+
+freedom 3
+
+frenchman 3
+
+friendly 3
+
+fully 3
+
+gait 3
+
+gate 3
+
+gav’st 3
+
+gay 3
+
+generally 3
+
+gerard 3
+
+girl 3
+
+gladly 3
+
+glow 3
+
+goest 3
+
+granted 3
+
+grape 3
+
+greasy 3
+
+great’st 3
+
+greetings 3
+
+grieves 3
+
+groans 3
+
+grossly 3
+
+grounded 3
+
+growing 3
+
+grow’st 3
+
+guarded 3
+
+guides 3
+
+gutenberg 3
+
+habit 3
+
+hairs 3
+
+handkercher 3
+
+hap 3
+
+happier 3
+
+harvest 3
+
+hasten 3
+
+hate’ 3
+
+hazard 3
+
+hearted 3
+
+heavens 3
+
+heel 3
+
+helen’s 3
+
+helm 3
+
+herein 3
+
+he’ll 3
+
+hid 3
+
+hideous 3
+
+highest 3
+
+history 3
+
+hits 3
+
+hole 3
+
+holla 3
+
+honey 3
+
+honours 3
+
+hourly 3
+
+humility 3
+
+humorous 3
+
+hung 3
+
+hurts 3
+
+husbandry 3
+
+huswife 3
+
+ignorant 3
+
+immediate 3
+
+inch 3
+
+inconstant 3
+
+infection 3
+
+influence 3
+
+inform’d 3
+
+ingratitude 3
+
+inherit 3
+
+injuries 3
+
+injurious 3
+
+inquire 3
+
+instruction 3
+
+intend 3
+
+interest 3
+
+invent 3
+
+invisible 3
+
+invite 3
+
+jack 3
+
+jealous 3
+
+jolly 3
+
+judge 3
+
+key 3
+
+kills 3
+
+kingly 3
+
+knaves 3
+
+labouring 3
+
+lacking 3
+
+lass 3
+
+latter 3
+
+laughter 3
+
+laws 3
+
+leaving 3
+
+legacy 3
+
+legs 3
+
+let’s 3
+
+levity 3
+
+life’s 3
+
+lin 3
+
+lively 3
+
+livery 3
+
+loath 3
+
+longing 3
+
+loose 3
+
+loses 3
+
+lower 3
+
+lying 3
+
+magician 3
+
+mak’st 3
+
+masked 3
+
+matters 3
+
+merits 3
+
+merrily 3
+
+metaphor 3
+
+methought 3
+
+miles 3
+
+mingled 3
+
+ministers 3
+
+misdoubt 3
+
+misenum 3
+
+miserable 3
+
+moiety 3
+
+monarch 3
+
+months 3
+
+motive 3
+
+mount 3
+
+mountain 3
+
+mourn 3
+
+moves 3
+
+moving 3
+
+mud 3
+
+murd’rous 3
+
+mustard 3
+
+mute 3
+
+mutual 3
+
+mystery 3
+
+nails 3
+
+napkin 3
+
+narbon 3
+
+narrow 3
+
+necessary 3
+
+neglected 3
+
+nice 3
+
+niece 3
+
+nobility 3
+
+nobleness 3
+
+object 3
+
+objects 3
+
+odour 3
+
+offences 3
+
+ordinary 3
+
+overplus 3
+
+pages 3
+
+palate 3
+
+parcel 3
+
+parthian 3
+
+particulars 3
+
+parting 3
+
+pearl 3
+
+penury 3
+
+perish 3
+
+perjured 3
+
+persever 3
+
+persons 3
+
+petition 3
+
+petticoat 3
+
+philippi 3
+
+phoebus 3
+
+phrase 3
+
+physician 3
+
+physicians 3
+
+picture 3
+
+pitiful 3
+
+plants 3
+
+plea 3
+
+pleasing 3
+
+pocket 3
+
+poetical 3
+
+poetry 3
+
+poets 3
+
+poorer 3
+
+posterity 3
+
+pow 3
+
+pox 3
+
+practice 3
+
+prepare 3
+
+presents 3
+
+presume 3
+
+principal 3
+
+prison 3
+
+privilege 3
+
+process 3
+
+produce 3
+
+profess 3
+
+profession 3
+
+proved 3
+
+proves 3
+
+ptolemy 3
+
+pull 3
+
+pursue 3
+
+puts 3
+
+quarter 3
+
+r 3
+
+race 3
+
+ragged 3
+
+ram 3
+
+ranks 3
+
+rarely 3
+
+reap 3
+
+rebel 3
+
+receives 3
+
+recover 3
+
+reference 3
+
+refuse 3
+
+regiment 3
+
+religion 3
+
+rememb 3
+
+rend 3
+
+replete 3
+
+reply 3
+
+reproof 3
+
+require 3
+
+reserv 3
+
+residing 3
+
+resolution 3
+
+retire 3
+
+revenue 3
+
+revolted 3
+
+reward 3
+
+richly 3
+
+riper 3
+
+robe 3
+
+robs 3
+
+rogues 3
+
+roof 3
+
+ruin 3
+
+rynaldo 3
+
+sadness 3
+
+safe 3
+
+safest 3
+
+sail 3
+
+salt 3
+
+sanctified 3
+
+sap 3
+
+sauce 3
+
+saved 3
+
+scars 3
+
+schoolmaster 3
+
+scratch 3
+
+scurvy 3
+
+season 3
+
+seasons 3
+
+secret 3
+
+seemed 3
+
+sees 3
+
+sell 3
+
+sensual 3
+
+sequent 3
+
+serious 3
+
+serpents 3
+
+services 3
+
+serving 3
+
+seventeen 3
+
+shames 3
+
+shepherdess 3
+
+shield 3
+
+shift 3
+
+shifts 3
+
+ship 3
+
+shoots 3
+
+shot 3
+
+showers 3
+
+showing 3
+
+shun 3
+
+sickly 3
+
+sicyon 3
+
+silent 3
+
+silver 3
+
+sink 3
+
+sins 3
+
+slept 3
+
+slime 3
+
+smiling 3
+
+smooth 3
+
+snow 3
+
+sober 3
+
+soil 3
+
+sole 3
+
+songs 3
+
+sooth 3
+
+sounds 3
+
+sour 3
+
+sourest 3
+
+spacious 3
+
+spheres 3
+
+spoil 3
+
+spot 3
+
+sprightly 3
+
+spur 3
+
+spurs 3
+
+stag 3
+
+stale 3
+
+states 3
+
+steep 3
+
+sticks 3
+
+sting 3
+
+stole 3
+
+storm 3
+
+stranger 3
+
+strangers 3
+
+stratagem 3
+
+studied 3
+
+subscribe 3
+
+succession 3
+
+suck 3
+
+sue 3
+
+suppose 3
+
+sustain 3
+
+swoon 3
+
+swoons 3
+
+syracusian 3
+
+tame 3
+
+task 3
+
+teachest 3
+
+tear 3
+
+telling 3
+
+tent 3
+
+term 3
+
+terrible 3
+
+testament 3
+
+theirs 3
+
+thirty 3
+
+torment 3
+
+town 3
+
+transform 3
+
+translate 3
+
+travels 3
+
+treason 3
+
+trifles 3
+
+triple 3
+
+trouble 3
+
+truths 3
+
+turning 3
+
+twixt 3
+
+tyrants 3
+
+ugly 3
+
+unclean 3
+
+understood 3
+
+universal 3
+
+unlawful 3
+
+untrue 3
+
+vain 3
+
+vainly 3
+
+varying 3
+
+veins 3
+
+vex 3
+
+victory 3
+
+virgins 3
+
+visage 3
+
+wail 3
+
+wake 3
+
+walks 3
+
+wander 3
+
+wanton 3
+
+wants 3
+
+warm 3
+
+warp 3
+
+wasteful 3
+
+wastes 3
+
+waters 3
+
+weaker 3
+
+weather 3
+
+wedlock 3
+
+weighs 3
+
+wench 3
+
+whate 3
+
+wheel 3
+
+whereto 3
+
+wherever 3
+
+whipped 3
+
+whipping 3
+
+whisper 3
+
+whore 3
+
+who’s 3
+
+wickedness 3
+
+willingly 3
+
+wings 3
+
+witch 3
+
+wither’d 3
+
+woeful 3
+
+woes 3
+
+women’s 3
+
+worser 3
+
+worthiest 3
+
+worthiness 3
+
+wrangling 3
+
+wrath 3
+
+wrestled 3
+
+wretch 3
+
+writing 3
+
+wrongs 3
+
+wrought 3
+
+yesterday 3
+
+y’are 3
+
+‘i 3
+
+‘o 3
+
+’a 3
+
+’twixt 3
+
+’twould 3
+
+Tempo: 1371,000000 ms
+Comparacoes: 172495494

@@ -16,9 +16,9 @@ return NULL;
 
 int fatorBalanceamento(pNodoA* a){
 
-    return (Altura(a->esq) - Altura(a->dir));
+    return (Altura(a->esq) - Altura(a->dir));//retorna o faotor de balanceamento da arvore
 }
-int BalanceamentoABP(pNodoA *a)
+int BalanceamentoABP(pNodoA *a)//verifica se a arvore esta vazia
 {
     int x = 0, x1 = 0, x2 = 0;
     if (a == NULL)
@@ -28,7 +28,7 @@ int BalanceamentoABP(pNodoA *a)
         x1 = Altura(a->dir);
         x2 = Altura(a->esq);
         x = x1 - x2;
-        return x + BalanceamentoABP(a->dir) + BalanceamentoABP(a->esq) + 0;
+        return x + BalanceamentoABP(a->dir) + BalanceamentoABP(a->esq) + 0;//verifica se a arvore esta vazia
     }
 
 }
@@ -38,8 +38,8 @@ int Altura (pNodoA *a){
     if (a == NULL)
         return 0;
     else{
-     Alt_Esq = Altura (a->esq);
-     Alt_Dir = Altura (a->dir);
+     Alt_Esq = Altura (a->esq);//calcula a altura da sub-arvore esquerda
+     Alt_Dir = Altura (a->dir);//calcula a altura da subarvore esquerda
         if (Alt_Esq > Alt_Dir)
             return (1 + Alt_Esq);
         else
@@ -49,7 +49,7 @@ int Altura (pNodoA *a){
 
 int ContaAVL(pNodoA *a){
     if(a != NULL)
-        return ContaAVL(a->esq) + ContaAVL(a->dir) + 1;
+        return ContaAVL(a->esq) + ContaAVL(a->dir) + 1;//conta  aquantidade de novod da avl
     else
         return 0;
 }
@@ -57,14 +57,14 @@ int ContaAVL(pNodoA *a){
 int percorrePreFixadoEsquerda(pNodoA *a){
     int n = 0;
     if (a != NULL){
-        n++;
+        n++;//conta  quantidade de nodos da AVL
         percorrePreFixadoEsquerda(a->esq);
         percorrePreFixadoEsquerda(a->dir);
     }
     return n;
 }
 
-void centralEsquerda(pNodoA *a){
+void centralEsquerda(pNodoA *a){//percorre a arvore com o caminhamento central esquerda para printar em ordem alfabetica
     int x;
     if (a != NULL){
         centralEsquerda(a->esq);
@@ -83,15 +83,20 @@ void centralEsquerda(pNodoA *a){
 
 
 
-int consultaAVL(pNodoA *a, char palavra[]){
+int consultaAVL(pNodoA *a, char palavra[]){//consulta o nodo cuja palavra foi passada como parametro
     while (a!=NULL){
-        if (strcmp(a->info.palavra, palavra) == 0)
-            return a->info.quantidade; //achou então retorna o ponteiro para o nodo
-        else
-            if (strcmp(palavra, a->info.palavra) < 0)
-                a = a->esq;
-            else
+        if (strcmp(a->info.palavra, palavra) == 0){
+            contador_comparacoes ++;
+            return a->info.quantidade; //achou então retorna a frequerncia do nodo procuradp
+        }else{
+            if (strcmp(palavra, a->info.palavra) < 0){//verifica se palavra vem antes no alfabeto
+                    contador_comparacoes ++;
+                    a = a->esq;
+            }else{//se a palavra vir depoir no alfabeto
+                contador_comparacoes ++;
                 a = a->dir;
+            }
+        }
     }
     return 0; //se não achou
 }

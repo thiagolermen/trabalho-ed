@@ -1,0 +1,3 @@
+F amor
+F deus
+C 3 10000

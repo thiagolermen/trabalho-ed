@@ -1,0 +1,800 @@
+********   ESTATISTICAS DA GERACAO DA ARVORE ABP   ***********
+Numero de nodos: 1029
+Altura: 22
+Fator de balanceamento: -8
+Tempo: 4,000000 ms
+Rotacoes: 0
+Comparacoes: 25570
+**********************************************************************
+F que
+59 ocorrencias
+******************************
+F para
+22 ocorrencias
+******************************
+F coração
+3 ocorrencias
+******************************
+F lasdlkj
+0 ocorrencias
+******************************
+C 2 10
+
+estava 10
+
+meu 10
+
+com 9
+
+se 9
+
+sobre 8
+
+guaiaca 7
+
+já 7
+
+logo 7
+
+mas 7
+
+nos 7
+
+num 7
+
+quando 7
+
+sol 7
+
+tão 7
+
+zaino 7
+
+blau 6
+
+cusco 6
+
+dentro 6
+
+depois 6
+
+deus 6
+
+ele 6
+
+havia 6
+
+ia 6
+
+lá 6
+
+minha 6
+
+nas 6
+
+noite 6
+
+onças 6
+
+patrício 6
+
+tinha 6
+
+tudo 6
+
+vi 6
+
+à 6
+
+água 6
+
+ainda 5
+
+cima 5
+
+estrada 5
+
+estância 5
+
+foi 5
+
+lado 5
+
+luz 5
+
+mui 5
+
+nem 5
+
+olhos 5
+
+onde 5
+
+passo 5
+
+agora 4
+
+assim 4
+
+até 4
+
+bem 4
+
+cachorrinho 4
+
+cavalo 4
+
+comigo 4
+
+crianças 4
+
+entre 4
+
+então 4
+
+fui 4
+
+galope 4
+
+gente 4
+
+grande 4
+
+mais 4
+
+marias 4
+
+nada 4
+
+pois 4
+
+senti 4
+
+silêncio 4
+
+tempo 4
+
+todos 4
+
+trezentas 4
+
+três 4
+
+umas 4
+
+uns 4
+
+vinha 4
+
+ah 3
+
+ali 3
+
+alma 3
+
+antes 3
+
+aos 3
+
+barranca 3
+
+boa 3
+
+campos 3
+
+cantar 3
+
+cinto 3
+
+coração 3
+
+daquela 3
+
+dei 3
+
+deu 3
+
+devia 3
+
+dizer 3
+
+escuro 3
+
+estrelas 3
+
+ficou 3
+
+fresca 3
+
+galhos 3
+
+homem 3
+
+impressão 3
+
+isso 3
+
+lembrei 3
+
+lhe 3
+
+lugar 3
+
+manso 3
+
+matar 3
+
+meia 3
+
+meio 3
+
+meus 3
+
+mim 3
+
+morte 3
+
+olhava 3
+
+parecia 3
+
+patrão 3
+
+pedra 3
+
+perdido 3
+
+pingo 3
+
+ponta 3
+
+pra 3
+
+quem 3
+
+sem 3
+
+sempre 3
+
+só 3
+
+também 3
+
+vendo 3
+
+vida 3
+
+volta 3
+
+acompanhar 2
+
+alegria 2
+
+amigo 2
+
+amizade 2
+
+apeei 2
+
+aqui 2
+
+armas 2
+
+bom 2
+
+brasino 2
+
+cabeça 2
+
+canta 2
+
+casa 2
+
+caso 2
+
+cercado 2
+
+certo 2
+
+clarão 2
+
+comitiva 2
+
+corri 2
+
+corria 2
+
+cousas 2
+
+cristo 2
+
+culpa 2
+
+dava 2
+
+dela 2
+
+diante 2
+
+direita 2
+
+duma 2
+
+entrou 2
+
+eram 2
+
+estado 2
+
+estes 2
+
+está 2
+
+fazer 2
+
+fazia 2
+
+feita 2
+
+freio 2
+
+frio 2
+
+fundo 2
+
+gado 2
+
+ganas 2
+
+grilo 2
+
+hoje 2
+
+homens 2
+
+ingênuo 2
+
+isto 2
+
+jesu 2
+
+joão 2
+
+lados 2
+
+ladrão 2
+
+lagoa 2
+
+latia 2
+
+lembrou 2
+
+longa 2
+
+louvado 2
+
+lágrimas 2
+
+língua 2
+
+medo 2
+
+mesmo 2
+
+montei 2
+
+moço 2
+
+mãe 2
+
+mãos 2
+
+nome 2
+
+ouro 2
+
+outra 2
+
+outros 2
+
+ouvido 2
+
+passou 2
+
+pedregulho 2
+
+peito 2
+
+pela 2
+
+pelas 2
+
+pelo 2
+
+perder 2
+
+perto 2
+
+pistola 2
+
+polvadeira 2
+
+pouco 2
+
+pé 2
+
+pêlo 2
+
+quantos 2
+
+quero 2
+
+relinchou 2
+
+rindo 2
+
+roubado 2
+
+roupas 2
+
+rédea 2
+
+santa 2
+
+sarandi 2
+
+seja 2
+
+sentou 2
+
+serra 2
+
+sesteada 2
+
+seu 2
+
+sofrer 2
+
+sombra 2
+
+sucedeu 2
+
+tempos 2
+
+tenção 2
+
+tirei 2
+
+tive 2
+
+tornava 2
+
+troteada 2
+
+troteava 2
+
+vancê 2
+
+vaqueano 2
+
+velho 2
+
+vender 2
+
+vezes 2
+
+vieram 2
+
+vim 2
+
+vista 2
+
+vê 2
+
+águas 2
+
+último 2
+
+Tempo: 0,000000 ms
+Comparacoes: 18531
+C 3 1000
+
+e 108
+
+o 85
+
+a 80
+
+de 79
+
+que 59
+
+da 38
+
+me 37
+
+do 36
+
+na 28
+
+um 27
+
+uma 23
+
+as 22
+
+no 22
+
+para 22
+
+como 17
+
+não 17
+
+ao 16
+
+em 16
+
+os 16
+
+dos 15
+
+eu 15
+
+por 15
+
+era 14
+
+das 13
+
+é 11
+
+estava 10
+
+meu 10
+
+com 9
+
+se 9
+
+sobre 8
+
+guaiaca 7
+
+já 7
+
+logo 7
+
+mas 7
+
+nos 7
+
+num 7
+
+quando 7
+
+sol 7
+
+tão 7
+
+zaino 7
+
+blau 6
+
+cusco 6
+
+dentro 6
+
+depois 6
+
+deus 6
+
+ele 6
+
+havia 6
+
+ia 6
+
+lá 6
+
+minha 6
+
+nas 6
+
+noite 6
+
+onças 6
+
+patrício 6
+
+tinha 6
+
+tudo 6
+
+vi 6
+
+à 6
+
+água 6
+
+ainda 5
+
+cima 5
+
+estrada 5
+
+estância 5
+
+foi 5
+
+lado 5
+
+luz 5
+
+mui 5
+
+nem 5
+
+olhos 5
+
+onde 5
+
+passo 5
+
+agora 4
+
+assim 4
+
+até 4
+
+bem 4
+
+cachorrinho 4
+
+cavalo 4
+
+comigo 4
+
+crianças 4
+
+entre 4
+
+então 4
+
+fui 4
+
+galope 4
+
+gente 4
+
+grande 4
+
+mais 4
+
+marias 4
+
+nada 4
+
+pois 4
+
+senti 4
+
+silêncio 4
+
+tempo 4
+
+todos 4
+
+trezentas 4
+
+três 4
+
+umas 4
+
+uns 4
+
+vinha 4
+
+ah 3
+
+ali 3
+
+alma 3
+
+antes 3
+
+aos 3
+
+barranca 3
+
+boa 3
+
+campos 3
+
+cantar 3
+
+cinto 3
+
+coração 3
+
+daquela 3
+
+dei 3
+
+deu 3
+
+devia 3
+
+dizer 3
+
+escuro 3
+
+estrelas 3
+
+ficou 3
+
+fresca 3
+
+galhos 3
+
+homem 3
+
+impressão 3
+
+isso 3
+
+lembrei 3
+
+lhe 3
+
+lugar 3
+
+manso 3
+
+matar 3
+
+meia 3
+
+meio 3
+
+meus 3
+
+mim 3
+
+morte 3
+
+olhava 3
+
+parecia 3
+
+patrão 3
+
+pedra 3
+
+perdido 3
+
+pingo 3
+
+ponta 3
+
+pra 3
+
+quem 3
+
+sem 3
+
+sempre 3
+
+só 3
+
+também 3
+
+vendo 3
+
+vida 3
+
+volta 3
+
+Tempo: 9,000000 ms
+Comparacoes: 2073413

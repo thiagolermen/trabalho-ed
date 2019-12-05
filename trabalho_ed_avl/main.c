@@ -9,15 +9,15 @@
 
 
 /* PROTOTIPOS */
-void printTituloArquivo(FILE *saida, char argv[]);
-void printDadosArvore(FILE *saida,  char argv[], pNodoA *a, double time);
-void printArquivo(FILE *saida, char dado[], char palavra[], char argv[]);
-void printOcorrenciasArquivo(FILE *saida, int frequencia, char argv[]);
-void imprimeRange(FILE *saida, pNodoA *a, int rangeMin, int rangeMax);
-void printRange(FILE *saida, char dado[], int rangeMin, int rangeMax, char argv[]);
-void palavraRange(FILE *saida, pNodoA *a, int chave);
-void printPalavraRange(FILE *saida, char palavra[], int frequencia);
-void printTempo(FILE *saida, double time);
+void printTituloArquivo(FILE *saida, char argv[]);//printa o cabecalho do arquivo
+void printDadosArvore(FILE *saida,  char argv[], pNodoA *a, double time);//printa os dados da arvore, como rotacoes, nodos, altura, fator de balanceamento, etc
+void printArquivo(FILE *saida, char dado[], char palavra[], char argv[]);//printa no arquivo de saida
+void printOcorrenciasArquivo(FILE *saida, int frequencia, char argv[]);//printa a qunatidade de ocorrencias de determinada palavra
+void imprimeRange(FILE *saida, pNodoA *a, int rangeMin, int rangeMax);//imprime as palavras as quais estao no range k1 k2
+void printRange(FILE *saida, char dado[], int rangeMin, int rangeMax, char argv[]);//print range no arquivo
+void palavraRange(FILE *saida, pNodoA *a, int chave);//busca a palavra que deve-se pesquisar o range
+void printPalavraRange(FILE *saida, char palavra[], int frequencia);//printa a palavra que esta dentre k1 e k2
+void printTempo(FILE *saida, double time);//printa no artquivo o tempo decorrido
 
 
 /* Exemplo de uso dos argumentos para main
@@ -26,29 +26,26 @@ Para chamar, digite "exemplo entrada.txt entrada2.txt saida.txt" */
 
 int main(int argc, char *argv[]){//argc conta o numero de parametros e argv armazena as strings correspondentes aos paramentros digitados
 
-    //SetConsoleOutputCP(65001);
-
     setlocale(LC_ALL,"portuguese"); //para imprimir corretamente na tela os caracteres acentuados
 
-    pNodoA *avl = NULL;
-    TipoInfo word;
-    clock_t t;
-    clock_t t2;
-    double time_taken;
-    //TipoPtNo* lista = NULL;
-    int ok;
-    int rangeMin, rangeMax;
-    int frequencia;
-    FILE *texto;
-    FILE *operacoes;
-    FILE *saida;
+    pNodoA *avl = NULL;//inicializa a arvore
+    TipoInfo word;//estrutura para guardar a palavra lida do arquivo de entrada
+    clock_t t;//para funcao de tempo
+    clock_t t2;//para funcao de tempo
+    double time_taken;//tempo decorrido total (final - inicial)
+    int ok;//para realizar rotacoes
+    int rangeMin, rangeMax;//k1 e k2
+    int frequencia;//variavel auxiliar para armazenar a frequencia de determinada palvra
+    FILE *texto;//arquivo de texto de entrada
+    FILE *operacoes;//arquivo de texto com as operacoes a serem realizadas
+    FILE *saida;//arquivo de saida
     char *palavra, linha[MAX_LINHA]; // linhas a serem lidas do arquivo
-    char *linhaOperacao, tipoDado[MAX_PALAVRA];
-    char buscaPalavra[MAX_PALAVRA];
+    char *linhaOperacao, tipoDado[MAX_PALAVRA];//armazena a linha do arquivo de operacao
+    char buscaPalavra[MAX_PALAVRA];//armazena a palavra que sera buscada na arvore
     char separador[]= {" ,.&*%\?!;/-'@\"$#=><()][}{:\n\t"};
 
 
-    rangeMax = 0;
+    rangeMax = 0;//inicializa k1 e k2 com 0
     rangeMin = 0;
 
     if (argc != 4){//o numero de parametros esperado e 4: nome do programa (argv[0]), nome do arq texto de entrada (argv[1]), nome do arquivo de operacoes de entrada (argv[2]) e nome do arq de saida(argv[3])
@@ -76,7 +73,7 @@ int main(int argc, char *argv[]){//argc conta o numero de parametros e argv arma
                     t2 = clock();
                     while(fgets(linha, sizeof(linha), texto)){
                         palavra = strtok(linha, separador);
-                        while(palavra != NULL){
+                        while(palavra != NULL){//pega as palavras com strtok
                             strcpy(word.palavra, strlwr(palavra));
 
                             avl = InsereAVL(avl, word, &ok);
@@ -90,8 +87,8 @@ int main(int argc, char *argv[]){//argc conta o numero de parametros e argv arma
                 }
 
 
-                printTituloArquivo(saida, argv[3]);
-                printDadosArvore(saida, argv[3], avl, time_taken);//Printa no arquivo os dados
+                printTituloArquivo(saida, argv[3]);//printa cabecalho no arquivo
+                printDadosArvore(saida, argv[3], avl, time_taken);//Printa no arquivo os dados da arvotre
 
 
                 //percorre todo o arquivo de operacoes
@@ -99,7 +96,7 @@ int main(int argc, char *argv[]){//argc conta o numero de parametros e argv arma
                     linhaOperacao = strtok(linha, separador);
 
 
-                    if(strcmp(linhaOperacao, "F") == 0){
+                    if(strcmp(linhaOperacao, "F") == 0){//verifica se e um F para buscar a frequencia que vem logo apos
                         strcpy(tipoDado, linhaOperacao);
 
                         linhaOperacao = strtok(NULL, separador);
@@ -114,7 +111,7 @@ int main(int argc, char *argv[]){//argc conta o numero de parametros e argv arma
 
                         //Chama a funcao para imprimir as frequencias dessas palavras
                     }else{
-                        if(strcmp(linhaOperacao, "C") == 0){
+                        if(strcmp(linhaOperacao, "C") == 0){//verifica se e um C para pegar os dois valores numericos apos C que serao os k1 e k2
                             strcpy(tipoDado, linhaOperacao);
                             rangeMin = atoi(strtok(NULL, separador));
                             rangeMax = atoi(strtok(NULL, separador));
@@ -144,20 +141,19 @@ void printTempo(FILE *saida, double time){
     fprintf(saida, "Tempo: %f ms\n", time);
     fprintf(saida, "Comparacoes: %d\n", comparacoes_totais);
 }
-void imprimeRange(FILE *saida, pNodoA *a, int rangeMin, int rangeMax){
+void imprimeRange(FILE *saida, pNodoA *a, int rangeMin, int rangeMax){//varre toda a arvore em busca do valor que sera i(solucao burra porem facil)
     int i;
     for(i = rangeMax;i >= rangeMin; i--){
         palavraRange(saida, a, i);
     }
 }
-
 void palavraRange(FILE *saida, pNodoA *a, int chave){
     char palavra[MAX_PALAVRA];
     int frequencia;
     comparacoes_totais++;
     if (a != NULL){
         palavraRange(saida, a->esq, chave);
-        if(a->info.quantidade == chave){
+        if(a->info.quantidade == chave){//verifica se encontroi na arvore a palavra chave
             strcpy(palavra, a->info.palavra);
             frequencia = a->info.quantidade;
             printPalavraRange(saida, palavra, frequencia);

@@ -31,25 +31,20 @@ typedef struct s_PtNo{
 
 // Funcoes para AVL
 pNodoA* cria_arvore(void);                // funcao que cria arvore
-int BalanceamentoABP(pNodoA *a);
-int fatorBalanceamento(pNodoA* a);
-int percorrePreFixadoEsquerda(pNodoA *a);
+int BalanceamentoABP(pNodoA *a);           // calcula o fator de balanceamento da arvore (raiz)
+int fatorBalanceamento(pNodoA* a);         // calcula o fator de balanceamento da arvore (raiz)
+int percorrePreFixadoEsquerda(pNodoA *a);    // percorre a arvore no cminhamento p´re fixado esquerda
 int Altura (pNodoA *a);                   // funcao que ve altura
 int ContaAVL(pNodoA *a);                  // funcao que conta numero de nodos
 void centralEsquerda(pNodoA *a);
-int consultaAVL(pNodoA *a, char palavra[]);
-pNodoA* rotacao_esquerda(pNodoA *p);
-pNodoA* rotacao_direita(pNodoA* p);
-pNodoA* rotacao_dupla_esquerda (pNodoA *p);
-pNodoA* rotacao_dupla_direita (pNodoA* p);
-pNodoA* InsereAVL (pNodoA *a, TipoInfo x, int *ok);
-pNodoA* Caso1 (pNodoA *a , int *ok);
+int consultaAVL(pNodoA *a, char palavra[]); // funcao que consulta um nodo da arvore
+pNodoA* rotacao_esquerda(pNodoA *p);//realiza rotacao esquerda
+pNodoA* rotacao_direita(pNodoA* p);//realiza rotacao direita
+pNodoA* rotacao_dupla_esquerda (pNodoA *p);//realiza rotacoa dupla esquerda
+pNodoA* rotacao_dupla_direita (pNodoA* p);//realiza rotacao dupla direita
+pNodoA* InsereAVL (pNodoA *a, TipoInfo x, int *ok);//insere um nodo na avl
+pNodoA* Caso1 (pNodoA *a , int *ok);//caso de rotacao
 pNodoA* Caso2 (pNodoA *a , int *ok);
-
-// Funcoes para Lista
-void Contador(pNodoA* a, TipoPtNo* ptLista, int k1, int k2);
-TipoPtNo* InsereLista(TipoPtNo* ptLista, TipoInfo x);
-void ImprimeLista(TipoPtNo* ptLista);
 
 
 

@@ -2,7 +2,7 @@
 Numero de nodos: 8626
 Altura: 16
 Fator de balanceamento: 0
-Tempo: 102,000000 ms
+Tempo: 100,000000 ms
 Rotacoes: 6431
 Comparacoes: 1008890
 **********************************************************************
@@ -5714,5 +5714,5 @@ y’are 3
 
 ’twould 3
 
-Tempo: 1371,000000 ms
+Tempo: 1339,000000 ms
 Comparacoes: 172495494

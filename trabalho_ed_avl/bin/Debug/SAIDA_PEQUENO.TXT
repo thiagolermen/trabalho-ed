@@ -2,7 +2,7 @@
 Numero de nodos: 1029
 Altura: 12
 Fator de balanceamento: 0
-Tempo: 4,000000 ms
+Tempo: 3,000000 ms
 Rotacoes: 706
 Comparacoes: 23648
 **********************************************************************
@@ -794,5 +794,5 @@ vida 3
 
 volta 3
 
-Tempo: 9,000000 ms
+Tempo: 8,000000 ms
 Comparacoes: 2073413

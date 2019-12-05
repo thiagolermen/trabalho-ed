@@ -2,7 +2,7 @@
 Numero de nodos: 25992
 Altura: 18
 Fator de balanceamento: 1
-Tempo: 807,000000 ms
+Tempo: 779,000000 ms
 Rotacoes: 19731
 Comparacoes: 8367640
 **********************************************************************
@@ -31596,5 +31596,5 @@ zéres 2
 
 órbitas 2
 
-Tempo: 4337,000000 ms
+Tempo: 4260,000000 ms
 Comparacoes: 519798015

@@ -4712,5 +4712,5 @@ written 3
 
 wrong 3
 
-Tempo: 91,000000 ms
+Tempo: 86,000000 ms
 Comparacoes: 9517157

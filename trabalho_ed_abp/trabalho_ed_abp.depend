@@ -37,3 +37,27 @@
 	<string.h>
 	"abp.h"
 
+1575549838 source:c:\users\user\desktop\trabalho_ed\trabalho_ed_abp\abp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"abp.h"
+
+1574628480 c:\users\user\desktop\trabalho_ed\trabalho_ed_abp\abp.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+
+1575549859 source:c:\users\user\desktop\trabalho_ed\trabalho_ed_abp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<locale.h>
+	<windows.h>
+	<time.h>
+	"abp.h"
+

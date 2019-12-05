@@ -1,0 +1,1958 @@
+********   ESTATISTICAS DA GERACAO DA ARVORE AVL   ***********
+Numero de nodos: 3995
+Altura: 14
+Fator de balanceamento: 0
+Tempo: 19,000000 ms
+Rotacoes: 2985
+Comparacoes: 192818
+**********************************************************************
+F amor
+46 ocorrencias
+******************************
+F deus
+3 ocorrencias
+******************************
+C 3 10000
+
+que 611
+
+e 524
+
+de 520
+
+a 473
+
+o 411
+
+me 340
+
+um 262
+
+uma 233
+
+n„£o 225
+
+„° 194
+
+se 179
+
+the 177
+
+do 149
+
+minha 126
+
+para 126
+
+eu 119
+
+of 118
+
+da 117
+
+as 109
+
+com 107
+
+em 102
+
+meu 102
+
+como 99
+
+gutenberg 97
+
+no 93
+
+d 91
+
+os 88
+
+project 87
+
+tinha 87
+
+ella 81
+
+to 80
+
+or 78
+
+por 77
+
+ao 76
+
+lhe 72
+
+sua 71
+
+and 70
+
+mas 70
+
+you 70
+
+era 67
+
+seu 66
+
+„© 66
+
+quando 59
+
+te 59
+
+in 57
+
+tm 57
+
+mim 54
+
+essa 52
+
+si 51
+
+this 49
+
+mais 48
+
+esse 47
+
+na 47
+
+sobre 47
+
+with 47
+
+1 46
+
+amor 46
+
+work 45
+
+n 43
+
+ainda 40
+
+estava 38
+
+s„≥ 38
+
+t„£o 38
+
+any 37
+
+dia 36
+
+isto 36
+
+porque 32
+
+sem 32
+
+works 32
+
+olhos 31
+
+das 30
+
+ou 30
+
+dos 29
+
+esta 28
+
+foi 28
+
+nos 28
+
+vida 28
+
+| 28
+
+electronic 27
+
+for 26
+
+mesmo 26
+
+prima 26
+
+tempo 26
+
+dias 25
+
+disse 25
+
+foundation 25
+
+homem 25
+
+mulher 25
+
+onde 25
+
+by 24
+
+horas 24
+
+is 24
+
+noite 24
+
+amigo 23
+
+este 23
+
+havia 23
+
+m„£i 23
+
+pouco 23
+
+suas 23
+
+assim 22
+
+meus 22
+
+nem 22
+
+seus 22
+
+tudo 22
+
+apenas 21
+
+deos 21
+
+depois 21
+
+ia 21
+
+not 21
+
+terms 21
+
+voz 21
+
+are 20
+
+cora„ß„£o 20
+
+if 20
+
+j„° 20
+
+sempre 20
+
+toda 20
+
+alma 19
+
+be 19
+
+dizer 19
+
+fazia 19
+
+todos 19
+
+ver 19
+
+agreement 18
+
+all 18
+
+elle 18
+
+felicidade 18
+
+luz 18
+
+momento 18
+
+mundo 18
+
+parecia 18
+
+pela 18
+
+pelo 18
+
+sombra 18
+
+talvez 18
+
+bem 17
+
+dar 17
+
+ent„£o 17
+
+fosse 17
+
+from 17
+
+menos 17
+
+ser 17
+
+todo 17
+
+triste 17
+
+vi 17
+
+antes 16
+
+at 16
+
+at„© 16
+
+fazer 16
+
+license 16
+
+m„£o 16
+
+nosso 16
+
+olhar 16
+
+ter 16
+
+vez 16
+
+vezes 16
+
+„â 16
+
+c„©o 15
+
+dizia 15
+
+donations 15
+
+duas 15
+
+ha 15
+
+it 15
+
+may 15
+
+meio 15
+
+muito 15
+
+nossa 15
+
+por„©m 15
+
+sol 15
+
+that 15
+
+velha 15
+
+algum 14
+
+apezar 14
+
+carta 14
+
+cavallo 14
+
+copyright 14
+
+cousa 14
+
+devia 14
+
+entre 14
+
+id„©a 14
+
+ondas 14
+
+other 14
+
+podia 14
+
+states 14
+
+velho 14
+
+archive 13
+
+bella 13
+
+can„¥a 13
+
+cidade 13
+
+esses 13
+
+existencia 13
+
+fim 13
+
+full 13
+
+impossivel 13
+
+literary 13
+
+s 13
+
+seio 13
+
+terra 13
+
+use 13
+
+viagem 13
+
++ 12
+
+alguma 12
+
+alguns 12
+
+copy 12
+
+essas 12
+
+palavra 12
+
+qual 12
+
+quanto 12
+
+quasi 12
+
+sei 12
+
+sentia 12
+
+tem 12
+
+tu 12
+
+tua 12
+
+via 12
+
+www 12
+
+„°s 12
+
+3 11
+
+ama 11
+
+aquella 11
+
+aquelle 11
+
+contra 11
+
+diante 11
+
+esperan„ßa 11
+
+f 11
+
+for„ßa 11
+
+mar 11
+
+mez 11
+
+nada 11
+
+on 11
+
+org 11
+
+palavras 11
+
+paragraph 11
+
+petropolis 11
+
+primeiro 11
+
+rosto 11
+
+sabia 11
+
+seguinte 11
+
+senhor 11
+
+sentimento 11
+
+teu 11
+
+trademark 11
+
+access 10
+
+algumas 10
+
+can 10
+
+casa 10
+
+cinco 10
+
+ebook 10
+
+feliz 10
+
+futuro 10
+
+historia 10
+
+hora 10
+
+labios 10
+
+lagrimas 10
+
+minutos 10
+
+must 10
+
+nas 10
+
+passado 10
+
+passar 10
+
+perfume 10
+
+quem 10
+
+refund 10
+
+sabe 10
+
+senti 10
+
+united 10
+
+agree 9
+
+ahi 9
+
+aqui 9
+
+cabe„ßa 9
+
+desde 9
+
+espirito 9
+
+fallar 9
+
+feito 9
+
+fiquei 9
+
+information 9
+
+lado 9
+
+lembran„ßa 9
+
+longe 9
+
+lugar 9
+
+m„£os 9
+
+omnibus 9
+
+outra 9
+
+pensamento 9
+
+pescador 9
+
+prazer 9
+
+preciso 9
+
+public 9
+
+p„≥de 9
+
+quer 9
+
+repente 9
+
+sim 9
+
+sorriso 9
+
+we 9
+
+your 9
+
+4 8
+
+_ella_ 8
+
+about 8
+
+agora 8
+
+aos 8
+
+associated 8
+
+bra„ßo 8
+
+chegar 8
+
+deve 8
+
+diz 8
+
+domain 8
+
+eram 8
+
+est„° 8
+
+fee 8
+
+feia 8
+
+fez 8
+
+forth 8
+
+horizonte 8
+
+including 8
+
+laws 8
+
+mesma 8
+
+minhas 8
+
+natureza 8
+
+pois 8
+
+porta 8
+
+primeira 8
+
+sacrificio 8
+
+senhora 8
+
+set 8
+
+todas 8
+
+v„™l 8
+
+without 8
+
+alegre 7
+
+amar 7
+
+amava 7
+
+animal 7
+
+baile 7
+
+c 7
+
+camarote 7
+
+carlota 7
+
+copies 7
+
+criado 7
+
+distributing 7
+
+dous 7
+
+ebooks 7
+
+effeito 7
+
+entretanto 7
+
+estas 7
+
+filha 7
+
+fl„¥r 7
+
+for„ßas 7
+
+impaciencia 7
+
+ir 7
+
+movimento 7
+
+n„≥s 7
+
+outro 7
+
+paix„£o 7
+
+paquete 7
+
+passava 7
+
+passo 7
+
+permission 7
+
+poder 7
+
+provide 7
+
+pude 7
+
+raio 7
+
+sandalo 7
+
+section 7
+
+sin„£o 7
+
+tarde 7
+
+ti 7
+
+unico 7
+
+vapor 7
+
+veio 7
+
+vou 7
+
+which 7
+
+will 7
+
+‚ª 7
+
+„Å 7
+
+8 6
+
+adeos 6
+
+agua 6
+
+ah 6
+
+caminho 6
+
+certo 6
+
+charge 6
+
+comply 6
+
+consolo 6
+
+cruel 6
+
+desconhecida 6
+
+deu 6
+
+distribute 6
+
+distributed 6
+
+distribution 6
+
+doce 6
+
+eis 6
+
+espa„ßo 6
+
+estavamos 6
+
+face 6
+
+fiz 6
+
+fl„¥res 6
+
+fui 6
+
+grandes 6
+
+hoje 6
+
+hotel 6
+
+imagina„ß„£o 6
+
+junto 6
+
+logo 6
+
+melhor 6
+
+menor 6
+
+modo 6
+
+morte 6
+
+muitas 6
+
+mysterio 6
+
+nome 6
+
+nunca 6
+
+online 6
+
+ouvido 6
+
+paid 6
+
+passos 6
+
+pelas 6
+
+pelos 6
+
+pequeno 6
+
+perto 6
+
+phrase 6
+
+puro 6
+
+p„°g 6
+
+queria 6
+
+raz„£o 6
+
+saber 6
+
+sentado 6
+
+sido 6
+
+sob 6
+
+sonhos 6
+
+sorpresa 6
+
+state 6
+
+sublime 6
+
+such 6
+
+tanta 6
+
+tanto 6
+
+tax 6
+
+tenho 6
+
+theatro 6
+
+tinham 6
+
+tive 6
+
+tomar 6
+
+under 6
+
+vinte 6
+
+visto 6
+
+voltei 6
+
+volunteers 6
+
+5 5
+
+acabar 5
+
+acaso 5
+
+achei 5
+
+aguas 5
+
+alli 5
+
+amo 5
+
+anyone 5
+
+ar 5
+
+barca 5
+
+breve 5
+
+but 5
+
+cada 5
+
+canto 5
+
+causa 5
+
+certeza 5
+
+cheguei 5
+
+compliance 5
+
+contact 5
+
+contacto 5
+
+coragem 5
+
+dava 5
+
+deixar 5
+
+deixou 5
+
+desappareceu 5
+
+distancia 5
+
+donate 5
+
+durante 5
+
+egoista 5
+
+embarcar 5
+
+emfim 5
+
+emquanto 5
+
+escura 5
+
+esperava 5
+
+estes 5
+
+estou 5
+
+estrella 5
+
+explicar 5
+
+ficar 5
+
+free 5
+
+have 5
+
+hombro 5
+
+illus„£o 5
+
+instantes 5
+
+its 5
+
+leito 5
+
+len„ßo 5
+
+limited 5
+
+linda 5
+
+mal 5
+
+manh„£ 5
+
+medium 5
+
+musica 5
+
+nobre 5
+
+novo 5
+
+oh 5
+
+owner 5
+
+parece 5
+
+partir 5
+
+pensava 5
+
+pobre 5
+
+poderia 5
+
+possivel 5
+
+produced 5
+
+p„©s 5
+
+quatro 5
+
+received 5
+
+replacement 5
+
+retrato 5
+
+rio 5
+
+rua 5
+
+sahir 5
+
+sala 5
+
+saude 5
+
+seja 5
+
+seria 5
+
+simples 5
+
+siquer 5
+
+sonho 5
+
+sorria 5
+
+s„£o 5
+
+teus 5
+
+tres 5
+
+vem 5
+
+verdade 5
+
+vespera 5
+
+vista 5
+
+v„©o 5
+
+v„™ 5
+
+web 5
+
+44540 4
+
+abatida 4
+
+achava 4
+
+acompanhal 4
+
+additional 4
+
+affei„ß„£o 4
+
+alencar 4
+
+amada 4
+
+an 4
+
+andarahy 4
+
+angustia 4
+
+annos 4
+
+aquellas 4
+
+aroma 4
+
+ausencia 4
+
+available 4
+
+bahia 4
+
+bastante 4
+
+belleza 4
+
+brilhante 4
+
+cabellos 4
+
+cahir 4
+
+cannot 4
+
+cantava 4
+
+caso 4
+
+cavalheiro 4
+
+circumstancia 4
+
+collection 4
+
+conhecer 4
+
+contar 4
+
+copying 4
+
+corpo 4
+
+correr 4
+
+creating 4
+
+damages 4
+
+days 4
+
+deixei 4
+
+delicadeza 4
+
+delicado 4
+
+dentro 4
+
+descobrir 4
+
+desejo 4
+
+di 4
+
+displaying 4
+
+dormir 4
+
+editions 4
+
+ellas 4
+
+encontrei 4
+
+encontro 4
+
+ergueu 4
+
+erros 4
+
+especie 4
+
+esperei 4
+
+estado 4
+
+estrellas 4
+
+europa 4
+
+express„£o 4
+
+facto 4
+
+fees 4
+
+file 4
+
+fio 4
+
+fogo 4
+
+form 4
+
+format 4
+
+forte 4
+
+fraqueza 4
+
+freely 4
+
+fugia 4
+
+give 4
+
+grande 4
+
+halito 4
+
+holder 4
+
+how 4
+
+idade 4
+
+individual 4
+
+inglez 4
+
+instante 4
+
+invencivel 4
+
+lancei 4
+
+largo 4
+
+levar 4
+
+livro 4
+
+located 4
+
+longo 4
+
+l„° 4
+
+mission 4
+
+mocidade 4
+
+montanhas 4
+
+naturalmente 4
+
+nossas 4
+
+nove 4
+
+original 4
+
+our 4
+
+papel 4
+
+part 4
+
+pedir 4
+
+peito 4
+
+pequena 4
+
+perfumes 4
+
+person 4
+
+podendo 4
+
+ponto 4
+
+posso 4
+
+posted 4
+
+principio 4
+
+procurava 4
+
+provided 4
+
+providing 4
+
+quinze 4
+
+quiz 4
+
+raios 4
+
+recorda„ß„£o 4
+
+reflexo 4
+
+relva 4
+
+requirements 4
+
+resolu„ß„£o 4
+
+respira„ß„£o 4
+
+right 4
+
+sahida 4
+
+saleta 4
+
+scordar 4
+
+seda 4
+
+segundo 4
+
+sentir 4
+
+silencio 4
+
+site 4
+
+soffrimento 4
+
+somno 4
+
+sorrir 4
+
+status 4
+
+suave 4
+
+support 4
+
+tambem 4
+
+teria 4
+
+tijuca 4
+
+tivesse 4
+
+tomado 4
+
+tomei 4
+
+tornava 4
+
+tornou 4
+
+unless 4
+
+using 4
+
+vai 4
+
+vento 4
+
+vestido 4
+
+vis„£o 4
+
+voltar 4
+
+voltou 4
+
+was 4
+
+within 4
+
+2 3
+
+7 3
+
+9 3
+
+_traviata_ 3
+
+abandonado 3
+
+abri 3
+
+abrigar 3
+
+acabei 3
+
+acto 3
+
+adivinhava 3
+
+admirar 3
+
+alegria 3
+
+almas 3
+
+amado 3
+
+animo 3
+
+anjo 3
+
+apertar 3
+
+apertava 3
+
+aposta 3
+
+applicable 3
+
+approximei 3
+
+aquelles 3
+
+ardente 3
+
+arte 3
+
+arvores 3
+
+assignatura 3
+
+atomo 3
+
+atr„°s 3
+
+aventura 3
+
+away 3
+
+azas 3
+
+b 3
+
+bailes 3
+
+baixa 3
+
+beijo 3
+
+bellas 3
+
+bello 3
+
+below 3
+
+ber„ßo 3
+
+boa 3
+
+branco 3
+
+bra„ßas 3
+
+caixinha 3
+
+calma 3
+
+calmo 3
+
+capote 3
+
+carro 3
+
+celeste 3
+
+cerra„ß„£o 3
+
+charton 3
+
+cheia 3
+
+cheio 3
+
+cintura 3
+
+ciumes 3
+
+claro 3
+
+come„ßava 3
+
+come„ßou 3
+
+commigo 3
+
+complying 3
+
+comprehender 3
+
+conhece 3
+
+conheci 3
+
+corri 3
+
+corrigidos 3
+
+cost 3
+
+cousas 3
+
+creado 3
+
+crea„ß„£o 3
+
+date 3
+
+debalde 3
+
+dedica„ß„£o 3
+
+defect 3
+
+defective 3
+
+deixado 3
+
+deixal 3
+
+deixava 3
+
+delicada 3
+
+derivative 3
+
+desejava 3
+
+destino 3
+
+deus 3
+
+deves 3
+
+devo 3
+
+dezeseis 3
+
+digo 3
+
+disclaimer 3
+
+doente 3
+
+dormi 3
+
+dr 3
+
+drama 3
+
+d„©sse 3
+
+d„¥r 3
+
+efforts 3
+
+emo„ß„µes 3
+
+enganei 3
+
+entity 3
+
+entregue 3
+
+equipment 3
+
+esconder 3
+
+esfor„ßo 3
+
+espectaculo 3
+
+espera 3
+
+espero 3
+
+estavam 3
+
+excellente 3
+
+except 3
+
+extravagancia 3
+
+fallava 3
+
+faltavam 3
+
+farinha 3
+
+fatalidade 3
+
+fazendo 3
+
+final 3
+
+fizesse 3
+
+folha 3
+
+following 3
+
+foram 3
+
+found 3
+
+fragil 3
+
+fugir 3
+
+future 3
+
+ganhar 3
+
+general 3
+
+gozo 3
+
+grecia 3
+
+guarda 3
+
+harmonia 3
+
+he 3
+
+help 3
+
+hia 3
+
+http 3
+
+id„©as 3
+
+illuminava 3
+
+immenso 3
+
+included 3
+
+infancia 3
+
+informa„ß„µes 3
+
+injusta 3
+
+italia 3
+
+janeiro 3
+
+janella 3
+
+janellas 3
+
+jardim 3
+
+jos„© 3
+
+julga 3
+
+julgava 3
+
+lembrar 3
+
+lentamente 3
+
+leque 3
+
+ler 3
+
+liability 3
+
+ligeiramente 3
+
+ligeiro 3
+
+limitation 3
+
+links 3
+
+louco 3
+
+make 3
+
+mam„£i 3
+
+manto 3
+
+marcha 3
+
+martiniano 3
+
+me_ 3
+
+means 3
+
+melancolia 3
+
+menores 3
+
+mil 3
+
+momentos 3
+
+money 3
+
+morrer 3
+
+morto 3
+
+most 3
+
+mo„ßa 3
+
+multid„£o 3
+
+negros 3
+
+nenhuma 3
+
+new 3
+
+noites 3
+
+nossos 3
+
+notice 3
+
+number 3
+
+objectos 3
+
+obtain 3
+
+occultava 3
+
+official 3
+
+oito 3
+
+olhei 3
+
+oriente 3
+
+outros 3
+
+outside 3
+
+palha 3
+
+paragraphs 3
+
+parar 3
+
+partio 3
+
+passa 3
+
+passando 3
+
+passei 3
+
+passou 3
+
+payments 3
+
+pedia 3
+
+pensa 3
+
+people 3
+
+perder 3
+
+perdi 3
+
+performing 3
+
+perguntei 3
+
+pessoa 3
+
+pe„ßo 3
+
+piano 3
+
+please 3
+
+poesia 3
+
+praia 3
+
+prazeres 3
+
+prece 3
+
+prepare 3
+
+preto 3
+
+pre„ßo 3
+
+procurar 3
+
+profunda 3
+
+profundo 3
+
+promettes 3
+
+quero 3
+
+rapidamente 3
+
+rapido 3
+
+read 3
+
+receive 3
+
+reflectir 3
+
+remar 3
+
+reserva 3
+
+resignei 3
+
+resolvi 3
+
+respeito 3
+
+respondeu 3
+
+return 3
+
+rir 3
+
+rita 3
+
+rosa 3
+
+royalty 3
+
+ruas 3
+
+sabes 3
+
+saltar 3
+
+sciencia 3
+
+see 3
+
+seguia 3
+
+segunda 3
+
+sentada 3
+
+sentei 3
+
+seriamente 3
+
+setim 3
+
+solid„µes 3
+
+soltou 3
+
+som 3
+
+sombras 3
+
+sorrindo 3
+
+sou 3
+
+start 3
+
+tacto 3
+
+temo 3
+
+tempos 3
+
+these 3
+
+thesouro 3
+
+they 3
+
+torno 3
+
+tosse 3
+
+tranquilla 3
+
+trevas 3
+
+t„™m 3
+
+u 3
+
+unica 3
+
+unicamente 3
+
+up 3
+
+used 3
+
+user 3
+
+verdi 3
+
+viagens 3
+
+victima 3
+
+vir 3
+
+visse 3
+
+vivendo 3
+
+viver 3
+
+voava 3
+
+v„™s 3
+
+warranties 3
+
+where 3
+
+who 3
+
+writing 3
+
+written 3
+
+Tempo: 526,000000 ms
+Comparacoes: 79894018

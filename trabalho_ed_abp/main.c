@@ -7,6 +7,10 @@
 #include <time.h>
 #include "abp.h"
 
+/*  THIAGO SOTORIVA LERMEN - 00313020
+    LEONARDO BARROS BILHALVA - 00315768
+*/
+
 
 /* PROTOTIPOS */
 void printTituloArquivo(FILE *saida, char argv[]);//printa o cabecalho do arquivo
@@ -150,7 +154,6 @@ void printTempo(FILE *saida, double t){
 }
 
 void imprimeRange(FILE *saida, pNodoA *a, int rangeMin, int rangeMax){//varre toda a arvore em busca do valor que sera i(solucao burra porem facil)
-    int i;
     int i;
     for(i = rangeMax;i >= rangeMin; i--){
         palavraRange(saida, a, i);

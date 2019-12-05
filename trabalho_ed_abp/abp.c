@@ -15,7 +15,7 @@ return NULL;
 
 
 int fatorBalanceamento(pNodoA* a){
-
+    contador_comparacoes ++;
     return (Altura(a->esq) - Altura(a->dir));//retorna o faotor de balanceamento da arvore
 }
 int BalanceamentoABP(pNodoA *a)//verifica se a arvore esta vazia
@@ -35,6 +35,7 @@ int BalanceamentoABP(pNodoA *a)//verifica se a arvore esta vazia
 
 int Altura (pNodoA *a){
     int Alt_Esq, Alt_Dir;
+    contador_comparacoes ++;
     if (a == NULL)
         return 0;
     else{

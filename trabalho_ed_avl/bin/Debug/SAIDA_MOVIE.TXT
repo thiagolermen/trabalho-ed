@@ -2,7 +2,7 @@
 Numero de nodos: 4725
 Altura: 15
 Fator de balanceamento: -1
-Tempo: 18,000000 ms
+Tempo: 19,000000 ms
 Rotacoes: 3361
 Comparacoes: 186647
 **********************************************************************
@@ -4710,5 +4710,5 @@ written 3
 
 wrong 3
 
-Tempo: 68,000000 ms
+Tempo: 67,000000 ms
 Comparacoes: 9517157
